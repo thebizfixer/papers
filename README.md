@@ -10,7 +10,7 @@ A practical model for diagnosing and resolving interpersonal conflict. It folds 
 
 ### [Sentimentary: The Answer to Machine Learning Emotional and Cultural Intelligence](<Sentimentary The Answer to Machine Learning Emotional and Cultural Intelligence by Topher Ross.pdf>)
 
-The positioning paper behind Sentimentary, a Utah-native AI laboratory. It argues that the market's blind spot in sentiment analysis, an inability to separate a reserved opinion from a resigned one, is the same measurement gap interpretability research has left open, and it stakes a pro-human alternative to the closed frontier: measure what a machine reads, and keep a human in the loop.
+The positioning paper behind Sentimentary, a Utah-native AI laboratory. It argues that the market's blind spot in sentiment analysis, an inability to separate a reserved opinion from a resigned one, is the same measurement gap interpretability research has left open, and it stakes a pro-human alternative to the closed frontier: measure what a machine reads, and keep a human accountable.
 
 ### [The White-Label Analytical Delivery Model](<The White-Label Analytical Delivery Model by Topher Ross.pdf>)
 
