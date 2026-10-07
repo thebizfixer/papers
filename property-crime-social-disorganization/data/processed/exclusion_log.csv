@@ -1,0 +1,189 @@
+year,state_abbr,place,geoid,reason,detail
+2022,CT,Fairfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,CT,Hamden,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,CT,Milford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,CT,Stratford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,HI,Honolulu,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,MI,Canton Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,MI,Waterford Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,MI,West Bloomfield Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NV,Las Vegas Metropolitan Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Bloomfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Brick Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Camden County Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Cherry Hill Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Edison Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,"Franklin Township, Somerset County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,"Hamilton Township, Mercer County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Howell Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Jackson Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,North Bergen Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Parsippany-Troy Hills Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Piscataway Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NJ,Wayne Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NY,Amherst Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,NY,Clarkstown Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,OH,Colerain Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,OH,"Union Township, Clermont County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,OH,West Chester Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,CT,Fairfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,CT,Hamden,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,CT,Milford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,CT,Stratford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,HI,Honolulu,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,MI,Canton Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,MI,Waterford Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,MI,West Bloomfield Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NV,Las Vegas Metropolitan Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Bloomfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Brick Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Camden County Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Edison Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,"Franklin Township, Somerset County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,"Hamilton Township, Mercer County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Howell Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Irvington,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Jackson Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,North Bergen Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Parsippany-Troy Hills Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Piscataway Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NJ,Wayne Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NY,Amherst Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NY,Clarkstown Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,NY,Ramapo Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,OH,Colerain Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,OH,"Union Township, Clermont County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,OH,West Chester Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,PA,"Abington Township, Montgomery County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,PA,Lower Merion Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,PA,Northern York County Regional,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2023,PA,York County Regional,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,CT,Fairfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,CT,Hamden,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,CT,Milford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,CT,Stratford,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,HI,Honolulu,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,MI,Canton Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,MI,Waterford Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,MI,West Bloomfield Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NV,Las Vegas Metropolitan Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Bloomfield,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Brick Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Camden County Police Department,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Cherry Hill Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,East Brunswick Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Edison Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,"Franklin Township, Somerset County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,"Hamilton Township, Mercer County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Howell Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Irvington,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Jackson Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Middletown Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,North Bergen Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Parsippany-Troy Hills Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Piscataway Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NJ,Wayne Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NY,Amherst Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NY,Clarkstown Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,NY,Ramapo Town,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,OH,Colerain Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,OH,West Chester Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,"Abington Township, Montgomery County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,Bensalem Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,Haverford Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,Lower Merion Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,"Millcreek Township, Erie County",,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,Northern York County Regional,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,Upper Darby Township,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,PA,York County Regional,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2024,UT,American Fork/Cedar Hills,,unmatched_table8,"No ACS place key match; table8 population >= 50,000"
+2022,CT,Greenwich,0933690,acs_pop_below_50000,acs_population=14051.0
+2022,CT,Manchester,0944690,acs_pop_below_50000,acs_population=37015.0
+2022,IN,Jeffersonville,1838358,acs_pop_below_50000,acs_population=49771.0
+2022,IN,Westfield,1882700,acs_pop_below_50000,acs_population=48262.0
+2022,MA,Barnstable,2503690,acs_pop_below_50000,acs_population=48922.0
+2022,MA,Plymouth,2554275,acs_pop_below_50000,acs_population=7649.0
+2022,MI,Clinton Township,2616480,acs_pop_below_50000,acs_population=2929.0
+2022,MI,Shelby Township,2672840,acs_pop_below_50000,acs_population=2520.0
+2022,NJ,Gloucester Township,3426820,acs_pop_below_50000,acs_population=11435.0
+2022,NJ,Old Bridge Township,3454690,acs_pop_below_50000,acs_population=28094.0
+2022,NJ,Woodbridge Township,3481950,acs_pop_below_50000,acs_population=20927.0
+2022,NY,Colonie Town,3617332,acs_pop_below_50000,acs_population=7767.0
+2022,NY,Greece Town,3630279,acs_pop_below_50000,acs_population=14406.0
+2022,NY,Southampton Town,3668462,acs_pop_below_50000,acs_population=4481.0
+2022,NY,Tonawanda Town,3674166,acs_pop_below_50000,acs_population=15096.0
+2022,NC,Wake Forest,3770540,acs_pop_below_50000,acs_population=48047.0
+2022,OH,Green Township,3931860,acs_pop_below_50000,acs_population=27333.0
+2022,TX,Burleson,4811428,acs_pop_below_50000,acs_population=48970.0
+2022,TX,Kyle,4839952,acs_pop_below_50000,acs_population=48484.0
+2022,TX,Little Elm,4843012,acs_pop_below_50000,acs_population=48241.0
+2022,TX,Rockwall,4862828,acs_pop_below_50000,acs_population=47859.0
+2022,UT,Saratoga Springs,4967825,acs_pop_below_50000,acs_population=40391.0
+2023,AZ,Prescott Valley,0457450,acs_pop_below_50000,acs_population=48048.0
+2023,CT,Greenwich,0933690,acs_pop_below_50000,acs_population=14528.0
+2023,CT,Manchester,0944690,acs_pop_below_50000,acs_population=36561.0
+2023,MA,Barnstable,2503690,acs_pop_below_50000,acs_population=49232.0
+2023,MA,Plymouth,2554275,acs_pop_below_50000,acs_population=7852.0
+2023,MI,Clinton Township,2616480,acs_pop_below_50000,acs_population=2795.0
+2023,MI,Shelby Township,2672840,acs_pop_below_50000,acs_population=2571.0
+2023,NJ,Gloucester Township,3426820,acs_pop_below_50000,acs_population=11465.0
+2023,NJ,Old Bridge Township,3454690,acs_pop_below_50000,acs_population=28015.0
+2023,NJ,Woodbridge Township,3481950,acs_pop_below_50000,acs_population=20086.0
+2023,NY,Colonie Town,3617332,acs_pop_below_50000,acs_population=7705.0
+2023,NY,Greece Town,3630279,acs_pop_below_50000,acs_population=14053.0
+2023,NY,Southampton Town,3668462,acs_pop_below_50000,acs_population=4557.0
+2023,OH,Green Township,3931860,acs_pop_below_50000,acs_population=27381.0
+2023,PA,Manheim Township,4246888,acs_pop_below_50000,acs_population=5028.0
+2023,TX,Rockwall,4862828,acs_pop_below_50000,acs_population=49605.0
+2023,UT,Saratoga Springs,4967825,acs_pop_below_50000,acs_population=44070.0
+2024,AZ,Prescott Valley,0457450,acs_pop_below_50000,acs_population=49179.0
+2024,CT,Greenwich,0933690,acs_pop_below_50000,acs_population=14792.0
+2024,CT,Manchester,0944690,acs_pop_below_50000,acs_population=36759.0
+2024,MA,Barnstable,2503690,acs_pop_below_50000,acs_population=49568.0
+2024,MA,Plymouth,2554275,acs_pop_below_50000,acs_population=7918.0
+2024,MI,Clinton Township,2616480,acs_pop_below_50000,acs_population=2536.0
+2024,MI,East Lansing,2624120,acs_pop_below_50000,acs_population=45758.0
+2024,MI,Shelby Township,2672840,acs_pop_below_50000,acs_population=2577.0
+2024,NJ,Gloucester Township,3426820,acs_pop_below_50000,acs_population=11509.0
+2024,NJ,Old Bridge Township,3454690,acs_pop_below_50000,acs_population=28236.0
+2024,NY,Colonie Town,3617332,acs_pop_below_50000,acs_population=7702.0
+2024,NY,Greece Town,3630279,acs_pop_below_50000,acs_population=13943.0
+2024,NY,Southampton Town,3668462,acs_pop_below_50000,acs_population=4621.0
+2024,NY,Tonawanda Town,3674166,acs_pop_below_50000,acs_population=15030.0
+2024,OH,Green Township,3931860,acs_pop_below_50000,acs_population=27393.0
+2024,PA,Bristol Township,4208760,acs_pop_below_50000,acs_population=9902.0
+2024,PA,Manheim Township,4246888,acs_pop_below_50000,acs_population=5027.0
+2024,PA,State College,4273808,acs_pop_below_50000,acs_population=41050.0
+2024,SC,Goose Creek,4529815,acs_pop_below_50000,acs_population=48078.0
+2024,TN,Gallatin,4728540,acs_pop_below_50000,acs_population=48532.0
+2024,TN,Lebanon,4741520,acs_pop_below_50000,acs_population=44788.0
+2024,UT,Saratoga Springs,4967825,acs_pop_below_50000,acs_population=48425.0
+2024,WA,Bothell,5307380,acs_pop_below_50000,acs_population=49610.0
+2022,MI,Flint Township,2629000,pop_ratio_mismatch,table8_pop=31097.0; acs_pop=81863.0
+2022,MI,Kalamazoo Township,2642160,pop_ratio_mismatch,table8_pop=24309.0; acs_pop=73342.0
+2022,MI,Lansing Township,2646000,pop_ratio_mismatch,table8_pop=8037.0; acs_pop=112986.0
+2022,NJ,Lakewood Township,3438580,pop_ratio_mismatch,table8_pop=141190.0; acs_pop=68555.0
+2023,MI,Flint Township,2629000,pop_ratio_mismatch,table8_pop=30821.0; acs_pop=80835.0
+2023,MI,Kalamazoo Township,2642160,pop_ratio_mismatch,table8_pop=24294.0; acs_pop=73132.0
+2023,MI,Lansing Township,2646000,pop_ratio_mismatch,table8_pop=8011.0; acs_pop=112546.0
+2023,NJ,Lakewood Township,3438580,pop_ratio_mismatch,table8_pop=142510.0; acs_pop=69884.0
+2023,PA,Bethlehem Township,4206088,pop_ratio_mismatch,table8_pop=26337.0; acs_pop=77069.0
+2023,PA,Reading Township,4263624,pop_ratio_mismatch,table8_pop=5874.0; acs_pop=94836.0
+2024,GA,Savannah,1369000,pop_ratio_mismatch,table8_pop=241780.0; acs_pop=147898.0
+2024,MI,Flint Township,2629000,pop_ratio_mismatch,table8_pop=30751.0; acs_pop=80175.0
+2024,MI,Kalamazoo Township,2642160,pop_ratio_mismatch,table8_pop=24299.0; acs_pop=73076.0
+2024,MI,Lansing Township,2646000,pop_ratio_mismatch,table8_pop=7947.0; acs_pop=113023.0
+2024,NJ,Lakewood Township,3438580,pop_ratio_mismatch,table8_pop=144876.0; acs_pop=69585.0
+2024,PA,Bethlehem Township,4206088,pop_ratio_mismatch,table8_pop=26492.0; acs_pop=77956.0
+2024,PA,Reading Township,4263624,pop_ratio_mismatch,table8_pop=5935.0; acs_pop=95242.0
+2022,FL,"Jacksonville city, Florida",1235000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2023,AZ,"Tucson city, Arizona",0477000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2023,CA,"San Jose city, California",0668000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,FL,"Jacksonville city, Florida",1235000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,FL,"Port Orange city, Florida",1258575,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,FL,"Tallahassee city, Florida",1270600,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,GA,"Atlanta city, Georgia",1304000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,GA,"Savannah city, Georgia",1369000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,LA,"New Orleans city, Louisiana",2255000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2024,NV,"Las Vegas city, Nevada",3240000,cde_gap_candidate,"ACS place >= 50,000 with no official Table 8 target; appears in cde_gaps"
+2023,NJ,Union City city,3474630,duplicate_geoid_year,dropped extra Table 8 agency Union Township

@@ -1,0 +1,61 @@
+table,source_url,reason,detail
+gaps,https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report,dead_or_failed_url,http_403
+gaps,https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2022,dead_or_failed_url,http_403
+gaps,https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2021,dead_or_failed_url,http_403
+cost,https://www.backstreet-surveillance.com/blog/post/how-much-security-camera-installation-cost-in-the-usa-a-complete-breakdown,dead_or_failed_url,http_500
+gaps_hole,https://www.cityoforange.org/residents/police,dead_or_failed_url,http_403
+gaps_hole,https://www.lvmpd.com/about/transparency/statistics,dead_or_failed_url,http_403
+gaps_hole,https://www.lvmpd.com/about/transparency/annual-reports,dead_or_failed_url,http_403
+gaps_hole,https://www.jaxsheriff.org/resources/crime-mapping-and-statistics,dead_or_failed_url,http_404
+gaps_hole,https://www.sjpd.org/records/crime-stats-maps/crime-statistics,dead_or_failed_url,http_403
+gaps_hole,https://www.tucsonaz.gov/Departments/Police/TPD-Annual-Reports,dead_or_failed_url,http_403
+cost,,effectiveness_fallback,fortification
+cost,,effectiveness_fallback,surveillance
+cost,,effectiveness_fallback,alarm
+cost,,effectiveness_fallback,authorization
+news,https://6abc.com/post/65000-worth-construction-equipment-stolen-job-site-roxborough-section-philadelphia/15236183/,holdout_division,"Philadelphia, PA"
+news,https://www.nbcphiladelphia.com/news/local/caught-on-camera-six-burglars-sought-following-break-in-at-germantown-business/4414322/,holdout_division,"Philadelphia, PA"
+news,https://www.nashville.gov/departments/police/news/detectives-working-identify-suspects-involved-tuesdays-armory-burglary,not_study_place,"Nashville, TN"
+news,https://www.fox29.com/news/philly-businesses-ransacked-burglarized-during-7-month-crime-spree-suspects-still-sought,holdout_division,"Philadelphia, PA"
+news,https://www.livenowfox.com/news/home-depot-theft-ring,holdout_division,"New York, NY"
+news,https://www.justice.gov/usao-sdny/pr/two-defendants-arrested-sledgehammer-smash-and-grab-robbery-jewelry-store,not_study_place,"Hartsdale, NY"
+news,https://www.phillypolice.com/news-blotter/wanted-suspects-for-commercial-burglary-pattern-in-the-18th-and-19th-districts-video/,holdout_division,"Philadelphia, PA"
+news,https://fox59.com/news/indycrime/alleged-burglars-break-in-steal-thousands-from-businesses-on-indys-northwest-side/,not_study_place,"Indianapolis, IN"
+news,https://www.wgal.com/article/pa-indiana-county-arson-christopher-brady-4-suspicious-fires/73411301,not_study_place,
+news,https://www.morriscountynj.gov/Departments/Prosecutor/Prosecutor-Press-Releases/Newark-Man-Arrested-in-Connection-with-Boonton-Arson-Investigation,not_study_place,"Boonton, NJ"
+news,https://www.amny.com/police-fire/queens-retail-theft-ring-home-depot-12112025/,not_study_place,"Queens, NY"
+news,https://qns.com/2024/10/masked-man-sought-for-eight-commercial-burglaries-during-an-11-day-stretch-in-august-nypd/,holdout_division,"New York, NY"
+news,https://www.nbcboston.com/news/local/man-arrested-after-breaking-into-3-boston-stores-police-say/3287134/,holdout_division,"Boston, MA"
+news,https://abcnews4.com/news/crime-news/burglary-suspects-cause-1-million-in-damage-at-local-warehouse,not_study_place,
+news,https://www.silive.com/crime-safety/2024/06/4-businesses-broken-into-on-staten-island-in-a-week-what-we-know.html,holdout_division,"New York, NY"
+news,https://wwd.com/pop-culture/culture-news/chanel-store-burglary-new-york-city-1-7-million-loss-1239023486/,holdout_division,"New York, NY"
+news,https://www.fox5vegas.com/2024/04/04/arson-suspected-fire-las-vegas-business/,not_study_place,"Las Vegas, NV"
+news,https://abc7ny.com/post/nyc-crime-soho-givenchy-robbery/12832645/,holdout_division,"New York, NY"
+news,https://www.lvmpd.com/Home/Components/News/News/1486/263,not_study_place,"Las Vegas, NV"
+news,https://www.29news.com/2025/12/13/13-indicted-allegedly-stealing-millions-dollars-worth-goods-home-depot-stores-9-states/,holdout_division,"New York, NY"
+news,https://www.nbcmiami.com/news/local/police-investigate-smash-and-grab-robberies-at-smoke-shops-in-broward-county/3705926/,not_study_place,"Margate, FL"
+news,https://foxbaltimore.com/news/local/surveillance-video-shows-suspects-in-montgomery-county-business-burglary-spree-break-ins-georgetown-road-commercial-burglaries-police,not_study_place,"Bethesda, MD"
+news,https://wrnjradio.com/man-arrested-for-series-of-commercial-burglaries-across-somerset-county/,not_study_place,"Bedminster, NJ"
+news,https://www.mysuncoast.com/2025/09/08/construction-equipment-theft-ring-smashed-charlotte-sheriff-says/,not_study_place,
+news,https://6abc.com/post/2-juveniles-charged-arson-following-massive-6-alarm-fire-allentown-pa/19389886/,holdout_division,"Allentown, PA"
+news,https://www.norwoodnews.org/arson-ruled-cause-of-bainbridge-avenue-commercial-fire-that-destroyed-several-small-businesses/,not_study_place,"Bronx, NY"
+news,https://www.kwqc.com/2025/09/23/2-charged-after-trailer-filled-with-50k-equipment-stolen-construction-site/,not_study_place,
+news,https://queensda.org/106885/,not_study_place,"Queens, NY"
+news,https://fox59.com/news/impd-searching-for-suspect-accused-of-stealing-2-generators/,not_study_place,"Indianapolis, IN"
+news,https://www.justice.gov/usao-ri/pr/two-rhode-island-men-charged-leading-roles-large-scaled-organized-theft-crime-ring,holdout_division,"Providence, RI"
+news,https://newjersey.news12.com/2026/06/03/jersey-city-man-sentenced-to-4-years-in-prison-for-multi-state-warehouse-burglary-ring/5BBrF9uKH5NNXOZaY0ro9f,holdout_division,"Jersey City, NJ"
+news,https://www.pittsburghpa.gov/News-articles/Public-Safety-Blotter/2025/Police-Investigate-Overnight-Business-Burglary-in-Brookline,holdout_division,"Pittsburgh, PA"
+news,https://www.wivb.com/news/local-news/buffalo/old-pink-arsonist-admits-to-burning-down-landmark-bar/,holdout_division,"Buffalo, NY"
+news,https://www.nbcconnecticut.com/news/local/new-haven-businesses-ransacked/3263271/,holdout_division,"New Haven, CT"
+news,https://cbs6albany.com/news/local/colonie-police-arrest-four-in-series-of-capital-region-commercial-burglaries,not_study_place,"Colonie, NY"
+news,https://www.wkrn.com/news/local-news/nashville/man-charged-after-violent-robbery-arson-at-south-nashville-store/,not_study_place,"Nashville, TN"
+news,https://wgme.com/news/local/multiple-acts-of-vandalism-in-downtown-portland-causing-police-to-investigate,holdout_division,"Portland, ME"
+news,https://www.courant.com/2024/04/11/several-businesses-ransacked-during-break-ins-in-new-haven/,holdout_division,"New Haven, CT"
+news,https://www.cbsnews.com/boston/news/boston-cash-register-robberies-hyde-park-roxbury-jamaica-plain/,holdout_division,"Boston, MA"
+news,https://www.fox5ny.com/news/police-find-more-than100-stolen-forklifts,not_study_place,"Commerce, CA"
+news,https://www.wsmv.com/2026/01/07/its-not-first-time-two-nashville-businesses-hit-by-thieves-early-morning-burglaries/,not_study_place,"Nashville, TN"
+news,https://www.nbcBoston.com/news/local/police-investigating-robbery-in-east-boston/3392892/,holdout_division,"Boston, MA"
+news,https://www.abc27.com/news/tools-stolen-out-of-vehicle-at-dauphin-county-auto-repair-shop-psp-investigating/,not_study_place,
+news,https://www.nbcphiladelphia.com/news/local/caught-on-cam-mrs-k-burglary-cash-register-old-city-philadelphia/1994165/,holdout_division,"Philadelphia, PA"
+news,https://www.news4jax.com/news/local/2024/09/18/its-a-headache-every-time-theres-a-break-in-jacksonville-smoke-shop-broken-into-3-times-in-less-than-2-years/,not_study_place,"Jacksonville, FL"
+news,https://www.wlky.com/article/dixie-highway-car-dealership-vandalism-crime-louisville/65481440,not_study_place,"Louisville, KY"

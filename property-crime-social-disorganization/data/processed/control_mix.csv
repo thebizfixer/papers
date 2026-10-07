@@ -1,0 +1,13 @@
+tier,control_family,dollars
+high,fortification,0.0
+high,surveillance,3500000.0
+high,alarm,1500000.0
+high,authorization,0.0
+mid,fortification,5000000.0
+mid,surveillance,0.0
+mid,alarm,0.0
+mid,authorization,0.0
+low,fortification,0.0
+low,surveillance,0.0
+low,alarm,0.0
+low,authorization,0.0

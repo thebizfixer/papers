@@ -16,6 +16,10 @@ The positioning paper behind Sentimentary, a Utah-native AI laboratory. It argue
 
 How middle-market assurance, tax, and consulting firms recover analytical capacity without offshoring their judgment or letting ungoverned generative AI erode the credential. It proposes a white-label production layer: the firm keeps its data-acquisition and quality pipeline while a contracted layer delivers analysis at variable cost, reviewed and signed by the firm's credentialed professionals. Modeled on teleradiology.
 
+### [The Effects of Poverty, Ethnic Heterogeneity, and Residential Instability on Property Crime](<property-crime-social-disorganization/The Effects of Poverty, Ethnic Heterogeneity, and Residential Instability on Property Crime by Topher Ross.pdf>)
+
+An empirical study of the community conditions behind property crime in U.S. cities. It joins FBI Uniform Crime Reporting counts with American Community Survey estimates (2,182 place-years across 771 cities) to test whether poverty, ethnic heterogeneity, and residential instability predict the property-crime rate, then turns the regression, ridge, and linear-programming results into a security-budget allocation for owners of plant, property, and equipment. The [analysis notebooks](property-crime-social-disorganization/notebooks/) and [derived data](property-crime-social-disorganization/data/) ship with the paper.
+
 ## Author
 
 Topher Ross is a human-AI interaction specialist.

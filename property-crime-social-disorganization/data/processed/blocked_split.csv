@@ -1,0 +1,772 @@
+geoid,state_abbr,place,census_division,split
+103076,AL,Auburn city,East South Central,train
+107000,AL,Birmingham city,East South Central,train
+120104,AL,Decatur city,East South Central,train
+121184,AL,Dothan city,East South Central,train
+135896,AL,Hoover city,East South Central,train
+137000,AL,Huntsville city,East South Central,train
+145784,AL,Madison city,East South Central,train
+150000,AL,Mobile city,East South Central,train
+151000,AL,Montgomery city,East South Central,train
+177256,AL,Tuscaloosa city,East South Central,train
+203000,AK,Anchorage municipality,Pacific,train
+404720,AZ,Avondale city,Mountain,train
+407940,AZ,Buckeye city,Mountain,train
+410530,AZ,Casa Grande city,Mountain,train
+412000,AZ,Chandler city,Mountain,train
+423620,AZ,Flagstaff city,Mountain,train
+427400,AZ,Gilbert town,Mountain,train
+427820,AZ,Glendale city,Mountain,train
+428380,AZ,Goodyear city,Mountain,train
+439370,AZ,Lake Havasu City city,Mountain,train
+444270,AZ,Marana town,Mountain,train
+444410,AZ,Maricopa city,Mountain,train
+446000,AZ,Mesa city,Mountain,train
+454050,AZ,Peoria city,Mountain,train
+455000,AZ,Phoenix city,Mountain,train
+458150,AZ,Queen Creek town,Mountain,train
+465000,AZ,Scottsdale city,Mountain,train
+471510,AZ,Surprise city,Mountain,train
+473000,AZ,Tempe city,Mountain,train
+477000,AZ,Tucson city,Mountain,train
+485540,AZ,Yuma city,Mountain,train
+505320,AR,Bentonville city,West South Central,train
+515190,AR,Conway city,West South Central,train
+523290,AR,Fayetteville city,West South Central,train
+524550,AR,Fort Smith city,West South Central,train
+535710,AR,Jonesboro city,West South Central,train
+541000,AR,Little Rock city,West South Central,train
+550450,AR,North Little Rock city,West South Central,train
+560410,AR,Rogers city,West South Central,train
+566080,AR,Springdale city,West South Central,train
+600562,CA,Alameda city,Pacific,train
+600884,CA,Alhambra city,Pacific,train
+600947,CA,Aliso Viejo city,Pacific,train
+602000,CA,Anaheim city,Pacific,train
+602252,CA,Antioch city,Pacific,train
+602364,CA,Apple Valley town,Pacific,train
+602462,CA,Arcadia city,Pacific,train
+603526,CA,Bakersfield city,Pacific,train
+603666,CA,Baldwin Park city,Pacific,train
+604758,CA,Beaumont city,Pacific,train
+604982,CA,Bellflower city,Pacific,train
+606000,CA,Berkeley city,Pacific,train
+608142,CA,Brentwood city,Pacific,train
+608786,CA,Buena Park city,Pacific,train
+608954,CA,Burbank city,Pacific,train
+610046,CA,Camarillo city,Pacific,train
+611194,CA,Carlsbad city,Pacific,train
+611530,CA,Carson city,Pacific,train
+612048,CA,Cathedral City city,Pacific,train
+613014,CA,Chico city,Pacific,train
+613210,CA,Chino city,Pacific,train
+613214,CA,Chino Hills city,Pacific,train
+613392,CA,Chula Vista city,Pacific,train
+613588,CA,Citrus Heights city,Pacific,train
+614218,CA,Clovis city,Pacific,train
+614890,CA,Colton city,Pacific,train
+615044,CA,Compton city,Pacific,train
+616000,CA,Concord city,Pacific,train
+616350,CA,Corona city,Pacific,train
+616532,CA,Costa Mesa city,Pacific,train
+616742,CA,Covina city,Pacific,train
+617610,CA,Cupertino city,Pacific,train
+617918,CA,Daly City city,Pacific,train
+618100,CA,Davis city,Pacific,train
+618394,CA,Delano city,Pacific,train
+619192,CA,Diamond Bar city,Pacific,train
+619766,CA,Downey city,Pacific,train
+620018,CA,Dublin city,Pacific,train
+621230,CA,Eastvale city,Pacific,train
+621712,CA,El Cajon city,Pacific,train
+622020,CA,Elk Grove city,Pacific,train
+622230,CA,El Monte city,Pacific,train
+622678,CA,Encinitas city,Pacific,train
+622804,CA,Escondido city,Pacific,train
+623182,CA,Fairfield city,Pacific,train
+624638,CA,Folsom city,Pacific,train
+624680,CA,Fontana city,Pacific,train
+625380,CA,Fountain Valley city,Pacific,train
+626000,CA,Fremont city,Pacific,train
+627000,CA,Fresno city,Pacific,train
+628000,CA,Fullerton city,Pacific,train
+628168,CA,Gardena city,Pacific,train
+629000,CA,Garden Grove city,Pacific,train
+629504,CA,Gilroy city,Pacific,train
+630000,CA,Glendale city,Pacific,train
+630014,CA,Glendora city,Pacific,train
+631960,CA,Hanford city,Pacific,train
+632548,CA,Hawthorne city,Pacific,train
+633000,CA,Hayward city,Pacific,train
+633182,CA,Hemet city,Pacific,train
+633434,CA,Hesperia city,Pacific,train
+633588,CA,Highland city,Pacific,train
+636000,CA,Huntington Beach city,Pacific,train
+636056,CA,Huntington Park city,Pacific,train
+636448,CA,Indio city,Pacific,train
+636546,CA,Inglewood city,Pacific,train
+636770,CA,Irvine city,Pacific,train
+637692,CA,Jurupa Valley city,Pacific,train
+639248,CA,Laguna Niguel city,Pacific,train
+639290,CA,La Habra city,Pacific,train
+639486,CA,Lake Elsinore city,Pacific,train
+639496,CA,Lake Forest city,Pacific,train
+639892,CA,Lakewood city,Pacific,train
+640004,CA,La Mesa city,Pacific,train
+640130,CA,Lancaster city,Pacific,train
+641474,CA,Lincoln city,Pacific,train
+641992,CA,Livermore city,Pacific,train
+643000,CA,Long Beach city,Pacific,train
+644000,CA,Los Angeles city,Pacific,train
+644574,CA,Lynwood city,Pacific,train
+645022,CA,Madera city,Pacific,train
+645484,CA,Manteca city,Pacific,train
+646842,CA,Menifee city,Pacific,train
+646898,CA,Merced city,Pacific,train
+647766,CA,Milpitas city,Pacific,train
+648256,CA,Mission Viejo city,Pacific,train
+648354,CA,Modesto city,Pacific,train
+648816,CA,Montebello city,Pacific,train
+648914,CA,Monterey Park city,Pacific,train
+649270,CA,Moreno Valley city,Pacific,train
+649670,CA,Mountain View city,Pacific,train
+650076,CA,Murrieta city,Pacific,train
+650258,CA,Napa city,Pacific,train
+650398,CA,National City city,Pacific,train
+651182,CA,Newport Beach city,Pacific,train
+652526,CA,Norwalk city,Pacific,train
+652582,CA,Novato city,Pacific,train
+653000,CA,Oakland city,Pacific,train
+653322,CA,Oceanside city,Pacific,train
+653896,CA,Ontario city,Pacific,train
+653980,CA,Orange city,Pacific,train
+654652,CA,Oxnard city,Pacific,train
+655156,CA,Palmdale city,Pacific,train
+655184,CA,Palm Desert city,Pacific,train
+655282,CA,Palo Alto city,Pacific,train
+655618,CA,Paramount city,Pacific,train
+656000,CA,Pasadena city,Pacific,train
+656700,CA,Perris city,Pacific,train
+656784,CA,Petaluma city,Pacific,train
+656924,CA,Pico Rivera city,Pacific,train
+657456,CA,Pittsburg city,Pacific,train
+657526,CA,Placentia city,Pacific,train
+657792,CA,Pleasanton city,Pacific,train
+658072,CA,Pomona city,Pacific,train
+658240,CA,Porterville city,Pacific,train
+659444,CA,Rancho Cordova city,Pacific,train
+659451,CA,Rancho Cucamonga city,Pacific,train
+659920,CA,Redding city,Pacific,train
+659962,CA,Redlands city,Pacific,train
+660018,CA,Redondo Beach city,Pacific,train
+660102,CA,Redwood City city,Pacific,train
+660466,CA,Rialto city,Pacific,train
+660620,CA,Richmond city,Pacific,train
+662000,CA,Riverside city,Pacific,train
+662364,CA,Rocklin city,Pacific,train
+662896,CA,Rosemead city,Pacific,train
+662938,CA,Roseville city,Pacific,train
+664000,CA,Sacramento city,Pacific,train
+664224,CA,Salinas city,Pacific,train
+665000,CA,San Bernardino city,Pacific,train
+665042,CA,San Buenaventura (Ventura) city,Pacific,train
+665084,CA,San Clemente city,Pacific,train
+666000,CA,San Diego city,Pacific,train
+667000,CA,San Francisco city,Pacific,train
+667112,CA,San Jacinto city,Pacific,train
+668000,CA,San Jose city,Pacific,train
+668084,CA,San Leandro city,Pacific,train
+668196,CA,San Marcos city,Pacific,train
+668252,CA,San Mateo city,Pacific,train
+668364,CA,San Rafael city,Pacific,train
+668378,CA,San Ramon city,Pacific,train
+669000,CA,Santa Ana city,Pacific,train
+669070,CA,Santa Barbara city,Pacific,train
+669084,CA,Santa Clara city,Pacific,train
+669088,CA,Santa Clarita city,Pacific,train
+669112,CA,Santa Cruz city,Pacific,train
+669196,CA,Santa Maria city,Pacific,train
+670000,CA,Santa Monica city,Pacific,train
+670098,CA,Santa Rosa city,Pacific,train
+670224,CA,Santee city,Pacific,train
+672016,CA,Simi Valley city,Pacific,train
+673080,CA,South Gate city,Pacific,train
+673262,CA,South San Francisco city,Pacific,train
+675000,CA,Stockton city,Pacific,train
+677000,CA,Sunnyvale city,Pacific,train
+678120,CA,Temecula city,Pacific,train
+678582,CA,Thousand Oaks city,Pacific,train
+680000,CA,Torrance city,Pacific,train
+680238,CA,Tracy city,Pacific,train
+680644,CA,Tulare city,Pacific,train
+680812,CA,Turlock city,Pacific,train
+680854,CA,Tustin city,Pacific,train
+681204,CA,Union City city,Pacific,train
+681344,CA,Upland city,Pacific,train
+681554,CA,Vacaville city,Pacific,train
+681666,CA,Vallejo city,Pacific,train
+682590,CA,Victorville city,Pacific,train
+682954,CA,Visalia city,Pacific,train
+682996,CA,Vista city,Pacific,train
+683346,CA,Walnut Creek city,Pacific,train
+683668,CA,Watsonville city,Pacific,train
+684200,CA,West Covina city,Pacific,train
+684550,CA,Westminster city,Pacific,train
+684816,CA,West Sacramento city,Pacific,train
+685292,CA,Whittier city,Pacific,train
+686328,CA,Woodland city,Pacific,train
+686832,CA,Yorba Linda city,Pacific,train
+686972,CA,Yuba City city,Pacific,train
+687042,CA,Yucaipa city,Pacific,train
+803455,CO,Arvada city,Mountain,train
+804000,CO,Aurora city,Mountain,train
+807850,CO,Boulder city,Mountain,train
+809280,CO,Broomfield city,Mountain,train
+812415,CO,Castle Rock town,Mountain,train
+812815,CO,Centennial city,Mountain,train
+816000,CO,Colorado Springs city,Mountain,train
+816495,CO,Commerce City city,Mountain,train
+820000,CO,Denver city,Mountain,train
+827425,CO,Fort Collins city,Mountain,train
+831660,CO,Grand Junction city,Mountain,train
+832155,CO,Greeley city,Mountain,train
+843000,CO,Lakewood city,Mountain,train
+845970,CO,Longmont city,Mountain,train
+846465,CO,Loveland city,Mountain,train
+857630,CO,Parker town,Mountain,train
+862000,CO,Pueblo city,Mountain,train
+877290,CO,Thornton city,Mountain,train
+883835,CO,Westminster city,Mountain,train
+908000,CT,Bridgeport city,New England,holdout
+908420,CT,Bristol city,New England,holdout
+918430,CT,Danbury city,New England,holdout
+922700,CT,East Hartford CDP,New England,holdout
+937000,CT,Hartford city,New England,holdout
+946450,CT,Meriden city,New England,holdout
+950370,CT,New Britain city,New England,holdout
+952000,CT,New Haven city,New England,holdout
+955990,CT,Norwalk city,New England,holdout
+973000,CT,Stamford city,New England,holdout
+980000,CT,Waterbury city,New England,holdout
+982660,CT,West Hartford CDP,New England,holdout
+982800,CT,West Haven city,New England,holdout
+1077580,DE,Wilmington city,South Atlantic,train
+1150000,DC,Washington city,South Atlantic,train
+1201700,FL,Apopka city,South Atlantic,train
+1207300,FL,Boca Raton city,South Atlantic,train
+1207875,FL,Boynton Beach city,South Atlantic,train
+1207950,FL,Bradenton city,South Atlantic,train
+1212875,FL,Clearwater city,South Atlantic,train
+1214400,FL,Coral Springs city,South Atlantic,train
+1216475,FL,Davie town,South Atlantic,train
+1216525,FL,Daytona Beach city,South Atlantic,train
+1217100,FL,Delray Beach city,South Atlantic,train
+1217935,FL,Doral city,South Atlantic,train
+1225175,FL,Gainesville city,South Atlantic,train
+1232275,FL,Homestead city,South Atlantic,train
+1236950,FL,Kissimmee city,South Atlantic,train
+1239425,FL,Largo city,South Atlantic,train
+1245000,FL,Miami city,South Atlantic,train
+1245025,FL,Miami Beach city,South Atlantic,train
+1245060,FL,Miami Gardens city,South Atlantic,train
+1245975,FL,Miramar city,South Atlantic,train
+1249450,FL,North Miami city,South Atlantic,train
+1249675,FL,North Port city,South Atlantic,train
+1250750,FL,Ocala city,South Atlantic,train
+1253000,FL,Orlando city,South Atlantic,train
+1254000,FL,Palm Bay city,South Atlantic,train
+1255925,FL,Pensacola city,South Atlantic,train
+1256975,FL,Pinellas Park city,South Atlantic,train
+1257425,FL,Plantation city,South Atlantic,train
+1258575,FL,Port Orange city,South Atlantic,train
+1258715,FL,Port St. Lucie city,South Atlantic,train
+1262625,FL,St. Cloud city,South Atlantic,train
+1263000,FL,St. Petersburg city,South Atlantic,train
+1263650,FL,Sanford city,South Atlantic,train
+1264175,FL,Sarasota city,South Atlantic,train
+1271000,FL,Tampa city,South Atlantic,train
+1275812,FL,Wellington village,South Atlantic,train
+1276600,FL,West Palm Beach city,South Atlantic,train
+1278275,FL,Winter Haven city,South Atlantic,train
+1301052,GA,Albany city,South Atlantic,train
+1301696,GA,Alpharetta city,South Atlantic,train
+1303440,GA,Athens-Clarke County unified government (balance),South Atlantic,train
+1304000,GA,Atlanta city,South Atlantic,train
+1310944,GA,Brookhaven city,South Atlantic,train
+1319000,GA,Columbus city,South Atlantic,train
+1324768,GA,Dunwoody city,South Atlantic,train
+1342425,GA,Johns Creek city,South Atlantic,train
+1349756,GA,Marietta city,South Atlantic,train
+1367284,GA,Roswell city,South Atlantic,train
+1368516,GA,Sandy Springs city,South Atlantic,train
+1371492,GA,Smyrna city,South Atlantic,train
+1372122,GA,South Fulton city,South Atlantic,train
+1378800,GA,Valdosta city,South Atlantic,train
+1380508,GA,Warner Robins city,South Atlantic,train
+1608830,ID,Boise City city,Mountain,train
+1612250,ID,Caldwell city,Mountain,train
+1616750,ID,Coeur d'Alene city,Mountain,train
+1639700,ID,Idaho Falls city,Mountain,train
+1652120,ID,Meridian city,Mountain,train
+1656260,ID,Nampa city,Mountain,train
+1664090,ID,Pocatello city,Mountain,train
+1682810,ID,Twin Falls city,Mountain,train
+1702154,IL,Arlington Heights village,East North Central,train
+1703012,IL,Aurora city,East North Central,train
+1705573,IL,Berwyn city,East North Central,train
+1707133,IL,Bolingbrook village,East North Central,train
+1712385,IL,Champaign city,East North Central,train
+1714000,IL,Chicago city,East North Central,train
+1714351,IL,Cicero town,East North Central,train
+1718823,IL,Decatur city,East North Central,train
+1719642,IL,Des Plaines city,East North Central,train
+1720591,IL,Downers Grove village,East North Central,train
+1723074,IL,Elgin city,East North Central,train
+1724582,IL,Evanston city,East North Central,train
+1735411,IL,Hoffman Estates village,East North Central,train
+1738570,IL,Joliet city,East North Central,train
+1751089,IL,Mount Prospect village,East North Central,train
+1751622,IL,Naperville city,East North Central,train
+1753234,IL,Normal town,East North Central,train
+1754820,IL,Oak Lawn village,East North Central,train
+1754885,IL,Oak Park village,East North Central,train
+1756640,IL,Orland Park village,East North Central,train
+1757225,IL,Palatine village,East North Central,train
+1759000,IL,Peoria city,East North Central,train
+1765000,IL,Rockford city,East North Central,train
+1768003,IL,Schaumburg village,East North Central,train
+1770122,IL,Skokie village,East North Central,train
+1772000,IL,Springfield city,East North Central,train
+1775484,IL,Tinley Park village,East North Central,train
+1779293,IL,Waukegan city,East North Central,train
+1781048,IL,Wheaton city,East North Central,train
+1801468,IN,Anderson city,East North Central,train
+1805860,IN,Bloomington city,East North Central,train
+1810342,IN,Carmel city,East North Central,train
+1814734,IN,Columbus city,East North Central,train
+1820728,IN,Elkhart city,East North Central,train
+1822000,IN,Evansville city,East North Central,train
+1823278,IN,Fishers city,East North Central,train
+1825000,IN,Fort Wayne city,East North Central,train
+1827000,IN,Gary city,East North Central,train
+1829898,IN,Greenwood city,East North Central,train
+1831000,IN,Hammond city,East North Central,train
+1836003,IN,Indianapolis city (balance),East North Central,train
+1838358,IN,Jeffersonville city,East North Central,train
+1840392,IN,Kokomo city,East North Central,train
+1840788,IN,Lafayette city,East North Central,train
+1849932,IN,Mishawaka city,East North Central,train
+1851876,IN,Muncie city,East North Central,train
+1854180,IN,Noblesville city,East North Central,train
+1871000,IN,South Bend city,East North Central,train
+1875428,IN,Terre Haute city,East North Central,train
+1882700,IN,Westfield city,East North Central,train
+1901855,IA,Ames city,West North Central,train
+1902305,IA,Ankeny city,West North Central,train
+1912000,IA,Cedar Rapids city,West North Central,train
+1916860,IA,Council Bluffs city,West North Central,train
+1919000,IA,Davenport city,West North Central,train
+1921000,IA,Des Moines city,West North Central,train
+1922395,IA,Dubuque city,West North Central,train
+1938595,IA,Iowa City city,West North Central,train
+1973335,IA,Sioux City city,West North Central,train
+1982425,IA,Waterloo city,West North Central,train
+1983910,IA,West Des Moines city,West North Central,train
+2036000,KS,Kansas City city,West North Central,train
+2038900,KS,Lawrence city,West North Central,train
+2039350,KS,Lenexa city,West North Central,train
+2052575,KS,Olathe city,West North Central,train
+2053775,KS,Overland Park city,West North Central,train
+2064500,KS,Shawnee city,West North Central,train
+2071000,KS,Topeka city,West North Central,train
+2079000,KS,Wichita city,West North Central,train
+2108902,KY,Bowling Green city,East South Central,train
+2146027,KY,Lexington-Fayette urban county,East South Central,train
+2148006,KY,Louisville/Jefferson County metro government (balance),East South Central,train
+2158620,KY,Owensboro city,East South Central,train
+2205000,LA,Baton Rouge city,West South Central,train
+2208920,LA,Bossier City city,West South Central,train
+2239475,LA,Kenner city,West South Central,train
+2240735,LA,Lafayette city,West South Central,train
+2241155,LA,Lake Charles city,West South Central,train
+2255000,LA,New Orleans city,West South Central,train
+2270000,LA,Shreveport city,West South Central,train
+2360545,ME,Portland city,New England,holdout
+2404000,MD,Baltimore city,South Atlantic,train
+2408775,MD,Bowie city,South Atlantic,train
+2430325,MD,Frederick city,South Atlantic,train
+2431175,MD,Gaithersburg city,South Atlantic,train
+2467675,MD,Rockville city,South Atlantic,train
+2507000,MA,Boston city,New England,holdout
+2509000,MA,Brockton city,New England,holdout
+2509210,MA,Brookline CDP,New England,holdout
+2511000,MA,Cambridge city,New England,holdout
+2513660,MA,Chicopee city,New England,holdout
+2521990,MA,Everett city,New England,holdout
+2523000,MA,Fall River city,New England,holdout
+2524960,MA,Framingham city,New England,holdout
+2529405,MA,Haverhill city,New England,holdout
+2534550,MA,Lawrence city,New England,holdout
+2537000,MA,Lowell city,New England,holdout
+2537490,MA,Lynn city,New England,holdout
+2537875,MA,Malden city,New England,holdout
+2539835,MA,Medford city,New England,holdout
+2540675,MA,Methuen city,New England,holdout
+2540710,MA,Methuen Town city,New England,holdout
+2545000,MA,New Bedford city,New England,holdout
+2545560,MA,Newton city,New England,holdout
+2552490,MA,Peabody city,New England,holdout
+2555745,MA,Quincy city,New England,holdout
+2556585,MA,Revere city,New England,holdout
+2562535,MA,Somerville city,New England,holdout
+2567000,MA,Springfield city,New England,holdout
+2569170,MA,Taunton city,New England,holdout
+2572600,MA,Waltham city,New England,holdout
+2578972,MA,Weymouth Town city,New England,holdout
+2582000,MA,Worcester city,New England,holdout
+2603000,MI,Ann Arbor city,East North Central,train
+2605920,MI,Battle Creek city,East North Central,train
+2621000,MI,Dearborn city,East North Central,train
+2621020,MI,Dearborn Heights city,East North Central,train
+2622000,MI,Detroit city,East North Central,train
+2627440,MI,Farmington Hills city,East North Central,train
+2629000,MI,Flint city,East North Central,train
+2634000,MI,Grand Rapids city,East North Central,train
+2642160,MI,Kalamazoo city,East North Central,train
+2642820,MI,Kentwood city,East North Central,train
+2646000,MI,Lansing city,East North Central,train
+2649000,MI,Livonia city,East North Central,train
+2659440,MI,Novi city,East North Central,train
+2665440,MI,Pontiac city,East North Central,train
+2669035,MI,Rochester Hills city,East North Central,train
+2670040,MI,Royal Oak city,East North Central,train
+2670760,MI,St. Clair Shores city,East North Central,train
+2674900,MI,Southfield city,East North Central,train
+2676460,MI,Sterling Heights city,East North Central,train
+2679000,MI,Taylor city,East North Central,train
+2680700,MI,Troy city,East North Central,train
+2684000,MI,Warren city,East North Central,train
+2686000,MI,Westland city,East North Central,train
+2688940,MI,Wyoming city,East North Central,train
+2701900,MN,Apple Valley city,West North Central,train
+2706382,MN,Blaine city,West North Central,train
+2706616,MN,Bloomington city,West North Central,train
+2707966,MN,Brooklyn Park city,West North Central,train
+2708794,MN,Burnsville city,West North Central,train
+2713114,MN,Coon Rapids city,West North Central,train
+2717000,MN,Duluth city,West North Central,train
+2717288,MN,Eagan city,West North Central,train
+2718116,MN,Eden Prairie city,West North Central,train
+2718188,MN,Edina city,West North Central,train
+2735180,MN,Lakeville city,West North Central,train
+2740166,MN,Maple Grove city,West North Central,train
+2743000,MN,Minneapolis city,West North Central,train
+2743252,MN,Minnetonka city,West North Central,train
+2751730,MN,Plymouth city,West North Central,train
+2754880,MN,Rochester city,West North Central,train
+2756896,MN,St. Cloud city,West North Central,train
+2758000,MN,St. Paul city,West North Central,train
+2771428,MN,Woodbury city,West North Central,train
+2869280,MS,Southaven city,East South Central,train
+2906652,MO,Blue Springs city,West North Central,train
+2915670,MO,Columbia city,West North Central,train
+2924778,MO,Florissant city,West North Central,train
+2935000,MO,Independence city,West North Central,train
+2937592,MO,Joplin city,West North Central,train
+2938000,MO,Kansas City city,West North Central,train
+2941348,MO,Lee's Summit city,West North Central,train
+2954074,MO,O'Fallon city,West North Central,train
+2964082,MO,St. Charles city,West North Central,train
+2964550,MO,St. Joseph city,West North Central,train
+2965000,MO,St. Louis city,West North Central,train
+2965126,MO,St. Peters city,West North Central,train
+2970000,MO,Springfield city,West North Central,train
+3006550,MT,Billings city,Mountain,train
+3008950,MT,Bozeman city,Mountain,train
+3032800,MT,Great Falls city,Mountain,train
+3050200,MT,Missoula city,Mountain,train
+3103950,NE,Bellevue city,West North Central,train
+3119595,NE,Grand Island city,West North Central,train
+3128000,NE,Lincoln city,West North Central,train
+3137000,NE,Omaha city,West North Central,train
+3231900,NV,Henderson city,Mountain,train
+3251800,NV,North Las Vegas city,Mountain,train
+3260600,NV,Reno city,Mountain,train
+3268400,NV,Sparks city,Mountain,train
+3345140,NH,Manchester city,New England,holdout
+3350260,NH,Nashua city,New England,holdout
+3403580,NJ,Bayonne city,Middle Atlantic,holdout
+3413690,NJ,Clifton city,Middle Atlantic,holdout
+3419390,NJ,East Orange city,Middle Atlantic,holdout
+3421000,NJ,Elizabeth city,Middle Atlantic,holdout
+3432250,NJ,Hoboken city,Middle Atlantic,holdout
+3436000,NJ,Jersey City city,Middle Atlantic,holdout
+3451000,NJ,Newark city,Middle Atlantic,holdout
+3451210,NJ,New Brunswick city,Middle Atlantic,holdout
+3456550,NJ,Passaic city,Middle Atlantic,holdout
+3457000,NJ,Paterson city,Middle Atlantic,holdout
+3458200,NJ,Perth Amboy city,Middle Atlantic,holdout
+3459190,NJ,Plainfield city,Middle Atlantic,holdout
+3473110,NJ,Toms River CDP,Middle Atlantic,holdout
+3474000,NJ,Trenton city,Middle Atlantic,holdout
+3474630,NJ,Union City city,Middle Atlantic,holdout
+3476070,NJ,Vineland city,Middle Atlantic,holdout
+3479610,NJ,West New York town,Middle Atlantic,holdout
+3502000,NM,Albuquerque city,Mountain,train
+3539380,NM,Las Cruces city,Mountain,train
+3563460,NM,Rio Rancho city,Mountain,train
+3570500,NM,Santa Fe city,Mountain,train
+3601000,NY,Albany city,Middle Atlantic,holdout
+3611000,NY,Buffalo city,Middle Atlantic,holdout
+3615000,NY,Cheektowaga CDP,Middle Atlantic,holdout
+3633139,NY,Hempstead village,Middle Atlantic,holdout
+3637737,NY,Irondequoit CDP,Middle Atlantic,holdout
+3649121,NY,Mount Vernon city,Middle Atlantic,holdout
+3650617,NY,New Rochelle city,Middle Atlantic,holdout
+3651000,NY,New York city,Middle Atlantic,holdout
+3663000,NY,Rochester city,Middle Atlantic,holdout
+3665508,NY,Schenectady city,Middle Atlantic,holdout
+3673000,NY,Syracuse city,Middle Atlantic,holdout
+3675484,NY,Troy city,Middle Atlantic,holdout
+3676540,NY,Utica city,Middle Atlantic,holdout
+3681677,NY,White Plains city,Middle Atlantic,holdout
+3684000,NY,Yonkers city,Middle Atlantic,holdout
+3701520,NC,Apex town,South Atlantic,train
+3702140,NC,Asheville city,South Atlantic,train
+3709060,NC,Burlington city,South Atlantic,train
+3710740,NC,Cary town,South Atlantic,train
+3711800,NC,Chapel Hill town,South Atlantic,train
+3712000,NC,Charlotte city,South Atlantic,train
+3714100,NC,Concord city,South Atlantic,train
+3719000,NC,Durham city,South Atlantic,train
+3722920,NC,Fayetteville city,South Atlantic,train
+3725580,NC,Gastonia city,South Atlantic,train
+3728000,NC,Greensboro city,South Atlantic,train
+3728080,NC,Greenville city,South Atlantic,train
+3731400,NC,High Point city,South Atlantic,train
+3733120,NC,Huntersville town,South Atlantic,train
+3734200,NC,Jacksonville city,South Atlantic,train
+3735200,NC,Kannapolis city,South Atlantic,train
+3744220,NC,Mooresville town,South Atlantic,train
+3755000,NC,Raleigh city,South Atlantic,train
+3757500,NC,Rocky Mount city,South Atlantic,train
+3770540,NC,Wake Forest town,South Atlantic,train
+3774440,NC,Wilmington city,South Atlantic,train
+3775000,NC,Winston-Salem city,South Atlantic,train
+3807200,ND,Bismarck city,West North Central,train
+3825700,ND,Fargo city,West North Central,train
+3832060,ND,Grand Forks city,West North Central,train
+3901000,OH,Akron city,East North Central,train
+3912000,OH,Canton city,East North Central,train
+3915000,OH,Cincinnati city,East North Central,train
+3916000,OH,Cleveland city,East North Central,train
+3918000,OH,Columbus city,East North Central,train
+3919778,OH,Cuyahoga Falls city,East North Central,train
+3921000,OH,Dayton city,East North Central,train
+3925256,OH,Elyria city,East North Central,train
+3933012,OH,Hamilton city,East North Central,train
+3940040,OH,Kettering city,East North Central,train
+3941664,OH,Lakewood city,East North Central,train
+3944856,OH,Lorain city,East North Central,train
+3949840,OH,Middletown city,East North Central,train
+3954040,OH,Newark city,East North Central,train
+3961000,OH,Parma city,East North Central,train
+3974118,OH,Springfield city,East North Central,train
+3977000,OH,Toledo city,East North Central,train
+3988000,OH,Youngstown city,East North Central,train
+4009050,OK,Broken Arrow city,West South Central,train
+4023200,OK,Edmond city,West South Central,train
+4023950,OK,Enid city,West South Central,train
+4041850,OK,Lawton city,West South Central,train
+4048350,OK,Midwest City city,West South Central,train
+4049200,OK,Moore city,West South Central,train
+4052500,OK,Norman city,West South Central,train
+4055000,OK,Oklahoma City city,West South Central,train
+4075000,OK,Tulsa city,West South Central,train
+4101000,OR,Albany city,Pacific,train
+4105350,OR,Beaverton city,Pacific,train
+4105800,OR,Bend city,Pacific,train
+4115800,OR,Corvallis city,Pacific,train
+4123850,OR,Eugene city,Pacific,train
+4131250,OR,Gresham city,Pacific,train
+4134100,OR,Hillsboro city,Pacific,train
+4147000,OR,Medford city,Pacific,train
+4159000,OR,Portland city,Pacific,train
+4164900,OR,Salem city,Pacific,train
+4169600,OR,Springfield city,Pacific,train
+4173650,OR,Tigard city,Pacific,train
+4202000,PA,Allentown city,Middle Atlantic,holdout
+4206088,PA,Bethlehem city,Middle Atlantic,holdout
+4224000,PA,Erie city,Middle Atlantic,holdout
+4232800,PA,Harrisburg city,Middle Atlantic,holdout
+4260000,PA,Philadelphia city,Middle Atlantic,holdout
+4261000,PA,Pittsburgh city,Middle Atlantic,holdout
+4263624,PA,Reading city,Middle Atlantic,holdout
+4269000,PA,Scranton city,Middle Atlantic,holdout
+4419180,RI,Cranston city,New England,holdout
+4454640,RI,Pawtucket city,New England,holdout
+4459000,RI,Providence city,New England,holdout
+4474300,RI,Warwick city,New England,holdout
+4513330,SC,Charleston city,South Atlantic,train
+4516000,SC,Columbia city,South Atlantic,train
+4530850,SC,Greenville city,South Atlantic,train
+4548535,SC,Mount Pleasant town,South Atlantic,train
+4550875,SC,North Charleston city,South Atlantic,train
+4561405,SC,Rock Hill city,South Atlantic,train
+4570270,SC,Summerville town,South Atlantic,train
+4652980,SD,Rapid City city,West North Central,train
+4659020,SD,Sioux Falls city,West North Central,train
+4703440,TN,Bartlett city,East South Central,train
+4714000,TN,Chattanooga city,East South Central,train
+4715160,TN,Clarksville city,East South Central,train
+4716420,TN,Collierville town,East South Central,train
+4727740,TN,Franklin city,East South Central,train
+4733280,TN,Hendersonville city,East South Central,train
+4737640,TN,Jackson city,East South Central,train
+4738320,TN,Johnson City city,East South Central,train
+4739560,TN,Kingsport city,East South Central,train
+4740000,TN,Knoxville city,East South Central,train
+4748000,TN,Memphis city,East South Central,train
+4751560,TN,Murfreesboro city,East South Central,train
+4752006,TN,Nashville-Davidson metropolitan government (balance),East South Central,train
+4769420,TN,Smyrna town,East South Central,train
+4770580,TN,Spring Hill city,East South Central,train
+4801000,TX,Abilene city,West South Central,train
+4801924,TX,Allen city,West South Central,train
+4803000,TX,Amarillo city,West South Central,train
+4804000,TX,Arlington city,West South Central,train
+4805000,TX,Austin city,West South Central,train
+4806128,TX,Baytown city,West South Central,train
+4807000,TX,Beaumont city,West South Central,train
+4810768,TX,Brownsville city,West South Central,train
+4810912,TX,Bryan city,West South Central,train
+4811428,TX,Burleson city,West South Central,train
+4813024,TX,Carrollton city,West South Central,train
+4813552,TX,Cedar Park city,West South Central,train
+4815976,TX,College Station city,West South Central,train
+4816432,TX,Conroe city,West South Central,train
+4817000,TX,Corpus Christi city,West South Central,train
+4819000,TX,Dallas city,West South Central,train
+4819972,TX,Denton city,West South Central,train
+4820092,TX,DeSoto city,West South Central,train
+4822660,TX,Edinburg city,West South Central,train
+4824000,TX,El Paso city,West South Central,train
+4824768,TX,Euless city,West South Central,train
+4826232,TX,Flower Mound town,West South Central,train
+4827000,TX,Fort Worth city,West South Central,train
+4827684,TX,Frisco city,West South Central,train
+4828068,TX,Galveston city,West South Central,train
+4829000,TX,Garland city,West South Central,train
+4829336,TX,Georgetown city,West South Central,train
+4830464,TX,Grand Prairie city,West South Central,train
+4830644,TX,Grapevine city,West South Central,train
+4832372,TX,Harlingen city,West South Central,train
+4835000,TX,Houston city,West South Central,train
+4837000,TX,Irving city,West South Central,train
+4839148,TX,Killeen city,West South Central,train
+4839952,TX,Kyle city,West South Central,train
+4841464,TX,Laredo city,West South Central,train
+4841980,TX,League City city,West South Central,train
+4842016,TX,Leander city,West South Central,train
+4842508,TX,Lewisville city,West South Central,train
+4843012,TX,Little Elm city,West South Central,train
+4843888,TX,Longview city,West South Central,train
+4845000,TX,Lubbock city,West South Central,train
+4845384,TX,McAllen city,West South Central,train
+4845744,TX,McKinney city,West South Central,train
+4846452,TX,Mansfield city,West South Central,train
+4847892,TX,Mesquite city,West South Central,train
+4848072,TX,Midland city,West South Central,train
+4848768,TX,Mission city,West South Central,train
+4848804,TX,Missouri City city,West South Central,train
+4850820,TX,New Braunfels city,West South Central,train
+4852356,TX,North Richland Hills city,West South Central,train
+4853388,TX,Odessa city,West South Central,train
+4856000,TX,Pasadena city,West South Central,train
+4856348,TX,Pearland city,West South Central,train
+4857176,TX,Pflugerville city,West South Central,train
+4857200,TX,Pharr city,West South Central,train
+4858016,TX,Plano city,West South Central,train
+4858820,TX,Port Arthur city,West South Central,train
+4861796,TX,Richardson city,West South Central,train
+4862828,TX,Rockwall city,West South Central,train
+4863500,TX,Round Rock city,West South Central,train
+4863572,TX,Rowlett city,West South Central,train
+4864472,TX,San Angelo city,West South Central,train
+4865000,TX,San Antonio city,West South Central,train
+4865600,TX,San Marcos city,West South Central,train
+4870808,TX,Sugar Land city,West South Central,train
+4872176,TX,Temple city,West South Central,train
+4872392,TX,Texas City city,West South Central,train
+4874144,TX,Tyler city,West South Central,train
+4875428,TX,Victoria city,West South Central,train
+4876000,TX,Waco city,West South Central,train
+4879000,TX,Wichita Falls city,West South Central,train
+4880356,TX,Wylie city,West South Central,train
+4920120,UT,Draper city,Mountain,train
+4934970,UT,Herriman city,Mountain,train
+4943660,UT,Layton city,Mountain,train
+4944320,UT,Lehi city,Mountain,train
+4945860,UT,Logan city,Mountain,train
+4953230,UT,Murray city,Mountain,train
+4955980,UT,Ogden city,Mountain,train
+4957300,UT,Orem city,Mountain,train
+4962470,UT,Provo city,Mountain,train
+4965330,UT,St. George city,Mountain,train
+4967000,UT,Salt Lake City city,Mountain,train
+4967440,UT,Sandy city,Mountain,train
+4970850,UT,South Jordan city,Mountain,train
+4975360,UT,Taylorsville city,Mountain,train
+4982950,UT,West Jordan city,Mountain,train
+4983470,UT,West Valley City city,Mountain,train
+5101000,VA,Alexandria city,South Atlantic,train
+5116000,VA,Chesapeake city,South Atlantic,train
+5135000,VA,Hampton city,South Atlantic,train
+5135624,VA,Harrisonburg city,South Atlantic,train
+5147672,VA,Lynchburg city,South Atlantic,train
+5156000,VA,Newport News city,South Atlantic,train
+5157000,VA,Norfolk city,South Atlantic,train
+5164000,VA,Portsmouth city,South Atlantic,train
+5167000,VA,Richmond city,South Atlantic,train
+5168000,VA,Roanoke city,South Atlantic,train
+5176432,VA,Suffolk city,South Atlantic,train
+5182000,VA,Virginia Beach city,South Atlantic,train
+5303180,WA,Auburn city,Pacific,train
+5305210,WA,Bellevue city,Pacific,train
+5305280,WA,Bellingham city,Pacific,train
+5308850,WA,Burien city,Pacific,train
+5322640,WA,Everett city,Pacific,train
+5323515,WA,Federal Way city,Pacific,train
+5335275,WA,Kennewick city,Pacific,train
+5335415,WA,Kent city,Pacific,train
+5335940,WA,Kirkland city,Pacific,train
+5336745,WA,Lacey city,Pacific,train
+5338038,WA,Lakewood city,Pacific,train
+5343955,WA,Marysville city,Pacific,train
+5351300,WA,Olympia city,Pacific,train
+5353545,WA,Pasco city,Pacific,train
+5357535,WA,Redmond city,Pacific,train
+5357745,WA,Renton city,Pacific,train
+5358235,WA,Richland city,Pacific,train
+5361115,WA,Sammamish city,Pacific,train
+5363000,WA,Seattle city,Pacific,train
+5363960,WA,Shoreline city,Pacific,train
+5367000,WA,Spokane city,Pacific,train
+5367167,WA,Spokane Valley city,Pacific,train
+5370000,WA,Tacoma city,Pacific,train
+5374060,WA,Vancouver city,Pacific,train
+5380010,WA,Yakima city,Pacific,train
+5502375,WI,Appleton city,East North Central,train
+5522300,WI,Eau Claire city,East North Central,train
+5531000,WI,Green Bay city,East North Central,train
+5537825,WI,Janesville city,East North Central,train
+5539225,WI,Kenosha city,East North Central,train
+5540775,WI,La Crosse city,East North Central,train
+5548000,WI,Madison city,East North Central,train
+5553000,WI,Milwaukee city,East North Central,train
+5560500,WI,Oshkosh city,East North Central,train
+5566000,WI,Racine city,East North Central,train
+5584250,WI,Waukesha city,East North Central,train
+5585300,WI,West Allis city,East North Central,train
+5613150,WY,Casper city,Mountain,train
+5613900,WY,Cheyenne city,Mountain,train

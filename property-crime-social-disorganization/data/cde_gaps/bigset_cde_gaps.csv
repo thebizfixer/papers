@@ -1,0 +1,229 @@
+source_url,city,count,offense,rate,year
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report,"Charlotte, NC",4330,Burglary,495.1,2023
+https://www.cityofmesquite.com/1662/Uniform-Crime-Report-UCR-Crime-Indexes,"Mesquite, TX",375,Burglary,,2025
+https://berkeleyca.gov/sites/default/files/documents/BPD%202024%20Annual%20Report.pdf,"Berkeley, CA",779,Burglary,649.2,2024
+https://chandlerazpd.gov/maps-and-statistics/#burglary,"Chandler, AZ",334,Burglary,115.83,2024
+https://chandlerazpd.gov/maps-and-statistics/#larceny-theft,"Chandler, AZ",3591,Larceny-Theft,1245.34,2024
+https://chandlerazpd.gov/maps-and-statistics/#motor-vehicle-theft,"Chandler, AZ",254,Motor Vehicle Theft,88.09,2024
+https://virginiabeach.gov/connect/news/virginia-beach-police-department-releases-2023-crime-data#burglary,"Virginia Beach, VA",380,Burglary,83.5,2023
+https://virginiabeach.gov/connect/news/virginia-beach-police-department-releases-2023-crime-data#larceny-theft,"Virginia Beach, VA",6672,Larceny-Theft,1466.4,2023
+https://virginiabeach.gov/connect/news/virginia-beach-police-department-releases-2023-crime-data#motor-vehicle-theft,"Virginia Beach, VA",727,Motor Vehicle Theft,159.8,2023
+https://www.seattle.gov/police/information-and-data/data/crime-dashboard#burglary,"Seattle, WA",8756,Burglary,1152,2024
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2022,"San Jose, CA",3884,Burglary,397.8,2022
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2021,"San Jose, CA",3812,Burglary,370.2,2021
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-2021,"San Jose, CA",12013,Larceny-Theft,1166.6,2021
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-2022,"San Jose, CA",15010,Larceny-Theft,1537.2,2022
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#mvt-2022,"San Jose, CA",6469,Motor Vehicle Theft,662.5,2022
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#mvt-2021,"San Jose, CA",6419,Motor Vehicle Theft,623.3,2021
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2019,"San Jose, CA",4114,Burglary,394.4,2019
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#mvt-2020,"San Jose, CA",7065,Motor Vehicle Theft,673.4,2020
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-2019,"San Jose, CA",14924,Larceny-Theft,1430.8,2019
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-2020,"San Jose, CA",12737,Larceny-Theft,1214.0,2020
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#mvt-2019,"San Jose, CA",6126,Motor Vehicle Theft,587.3,2019
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#burglary-2020,"San Jose, CA",4045,Burglary,385.5,2020
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive,"San Jose, CA",3884,Burglary,397.8,2022
+https://www.phillypolice.com/crime-data/crime-statistics/,"Philadelphia, PA",5044,Burglary,314.5,2024
+https://kcpolice.org/crime/crime-statistics/#Burglary,"Kansas City, MO",2757,Burglary,,2023
+https://www.sjpd.org/records/crime-stats-maps#Burglary,"San Jose, CA",3884,Burglary,397.8,2022
+https://www.sjpd.org/records/crime-stats-maps#Larceny,"San Jose, CA",15010,Larceny-Theft,1537.2,2022
+https://www.nyc.gov/site/nypd/stats/crime-statistics/citywide-crime-stats.page#Burglary,"New York City, NY",13296,Burglary,159.5,2024
+https://www.sjpd.org/records/crime-stats-maps#MotorVehicleTheft,"San Jose, CA",6469,Motor Vehicle Theft,662.5,2022
+https://www.wichita.gov/1048/Crime-Stats#Burglary,"Wichita, KS",661,Burglary,166.5,2023
+https://www.wichita.gov/1048/Crime-Stats#MotorVehicleTheft,"Wichita, KS",2121,Motor Vehicle Theft,536.5,2023
+https://www.wichita.gov/1048/Crime-Stats#LarcenyTheft,"Wichita, KS",3793,Larceny-Theft,955.4,2023
+https://gbi.georgia.gov/document/document/2023-crime-statistics-summary/download#Burglary,"Atlanta, GA",1751,Burglary,343,2023
+https://gbi.georgia.gov/document/document/2023-crime-statistics-summary/download#LarcenyTheft,"Atlanta, GA",12555,Larceny-Theft,2458,2023
+https://gbi.georgia.gov/document/document/2023-crime-statistics-summary/download#MotorVehicleTheft,"Atlanta, GA",5241,Motor Vehicle Theft,1026,2023
+https://www.waspc.org/assets/2025%20Crime%20in%20Washington-compressed.pdf#Spokane-Burglary,"Spokane, WA",2716,Burglary,1186,2024
+https://www.nashville.gov/departments/police/news-and-reports/crime-statistics/nashville-crime-statistics,"Nashville, TN",2908,Burglary,422.1,2023
+https://www.santamonica.gov/topic-explainers/crime-reports-and-statistics,"Santa Monica, CA",742,Burglary,,2024
+https://www.menlopark.gov/Government/Departments/Police/Transparency/Crime-statistics,"Menlo Park, CA",,Burglary,,2022
+https://www.nashville.gov/sites/default/files/2025-08/Uniform-Crime-Reports-Part-I-Crimes-2023-2024-Total-and-Percent-of-Change.pdf#motor-vehicle-theft,"Nashville, TN",5679,Motor Vehicle Theft,824.2,2023
+https://www.nashville.gov/sites/default/files/2025-08/Uniform-Crime-Reports-Part-I-Crimes-2023-2024-Total-and-Percent-of-Change.pdf#larceny-theft,"Nashville, TN",23234,Larceny-Theft,3372.1,2023
+https://www.santamonica.gov/blog/2024-annual-crime-statistics#motor-vehicle-theft,"Santa Monica, CA",469,Motor Vehicle Theft,504.3,2024
+https://www.santamonica.gov/blog/2024-annual-crime-statistics#larceny-theft,"Santa Monica, CA",2927,Larceny-Theft,3147.31,2024
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#burglary-2024,"Charlotte, NC",4302,Burglary,479.6,2024
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#motor-vehicle-theft-2024,"Charlotte, NC",7442,Motor Vehicle Theft,829.6,2024
+https://berkeleyca.gov/sites/default/files/documents/BPD%202024%20Annual%20Report.pdf#burglary,"Berkeley, CA",779,Burglary,649.2,2024
+https://berkeleyca.gov/sites/default/files/documents/BPD%202024%20Annual%20Report.pdf#larceny-theft,"Berkeley, CA",4397,Larceny-Theft,3664.2,2024
+https://berkeleyca.gov/sites/default/files/documents/BPD%202024%20Annual%20Report.pdf#motor-vehicle-theft,"Berkeley, CA",1088,Motor Vehicle Theft,906.7,2024
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#larceny-theft-2024,"Charlotte, NC",10341,Larceny-Theft,,2024
+https://www.ktiv.com/2025/01/31/2024-scpd-crime-statistics-reveal-overall-crime-is-slightly-down-sioux-city/#burglary,"Sioux City, IA",399,Burglary,,2024
+https://www.ktiv.com/2025/01/31/2024-scpd-crime-statistics-reveal-overall-crime-is-slightly-down-sioux-city/#larceny,"Sioux City, IA",2258,Larceny-Theft,,2024
+https://www.ktiv.com/2025/01/31/2024-scpd-crime-statistics-reveal-overall-crime-is-slightly-down-sioux-city/#mvt,"Sioux City, IA",270,Motor Vehicle Theft,,2024
+https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=2948330&dbid=0&repo=City-of-DBQ#burglary,"Dubuque, IA",270,Burglary,,2024
+https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=2948330&dbid=0&repo=City-of-DBQ#theft,"Dubuque, IA",657,Larceny-Theft,,2024
+https://www.siouxfalls.gov/health-safety/police/police-resources/annual-report#burglary,"Sioux Falls, SD",653,Burglary,316.13,2024
+https://www.seattle.gov/police/information-and-data/data/crime-dashboard,"Seattle, WA",8756,Burglary,1152,2024
+https://coloradosprings.gov/police-department/page/cspd-statistical-and-annual-reports,"Colorado Springs, CO",,Burglary,540,2022
+https://www.costamesaca.gov/government/departments-and-divisions/police/police-information/crime-statistics,"Costa Mesa, CA",398,Burglary,371.1,2024
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#motor-vehicle-theft-2022,"San Jose, CA",6469,Motor Vehicle Theft,662.5,2022
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-theft-2022,"San Jose, CA",15010,Larceny-Theft,1537.2,2022
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#larceny-theft-2021,"San Jose, CA",12013,Larceny-Theft,1166.6,2021
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#motor-vehicle-theft-2021,"San Jose, CA",6419,Motor Vehicle Theft,623.3,2021
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#burglary-2023,"Charlotte, NC",4330,Burglary,492.05,2023
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#larceny-theft-2023,"Charlotte, NC",25825,Larceny-Theft,2934.66,2023
+https://www.charlottenc.gov/cmpd/News-Information/Crime-Statistics-Report#motor-vehicle-theft-2023,"Charlotte, NC",8032,Motor Vehicle Theft,912.73,2023
+https://data-rpdny.opendata.arcgis.com/pages/crime#motor-vehicle-theft-2023,"Rochester, NY",3943,Motor Vehicle Theft,,2023
+https://data-rpdny.opendata.arcgis.com/pages/crime#burglary-2023,"Rochester, NY",,Burglary,,2023
+https://data-rpdny.opendata.arcgis.com/pages/crime#larceny-theft-2023,"Rochester, NY",,Larceny-Theft,,2023
+https://www.austintexas.gov/services/view-crime-statistics#burglary-2022,"Austin, TX",4739,Burglary,486.05,2022
+https://www.austintexas.gov/services/view-crime-statistics#larceny-theft-2022,"Austin, TX",24643,Larceny-Theft,2527.49,2022
+https://www.austintexas.gov/services/view-crime-statistics#motor-vehicle-theft-2022,"Austin, TX",5022,Motor Vehicle Theft,515.08,2022
+https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Police-Department/Crime-Information#burglary-2022,"Denver, CO",4948,Burglary,692,2022
+https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Police-Department/Crime-Information#larceny-theft-2022,"Denver, CO",29687,Larceny-Theft,4152,2022
+https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Police-Department/Crime-Information#motor-vehicle-theft-2022,"Denver, CO",14980,Motor Vehicle Theft,2058,2022
+https://www.nashville.gov/departments/police/news-and-reports/crime-statistics/nashville-crime-statistics#burglary-2022,"Nashville, TN",2908,Burglary,422.06,2023
+https://www.nashville.gov/departments/police/news-and-reports/crime-statistics/nashville-crime-statistics#larceny-theft-2022,"Nashville, TN",23234,Larceny-Theft,3372.13,2023
+https://www.nashville.gov/departments/police/news-and-reports/crime-statistics/nashville-crime-statistics#motor-vehicle-theft-2022,"Nashville, TN",5679,Motor Vehicle Theft,824.24,2023
+https://openjustice.doj.ca.gov/exploration/crime-statistics,"Los Angeles, CA",25594,Motor Vehicle Theft,656.5,2023
+https://gbi.georgia.gov/document/document/2023-crime-statistics-summary/download,"Atlanta, GA",1751,Burglary,343,2023
+https://www.fdle.state.fl.us/cjab/ucr/annual-reports/ucr-annual-archives,"Jacksonville, FL",,Burglary,,2022
+https://www.sandiego.gov/police/data-transparency/crime-statistics/annual-crime-reports,"San Diego, CA",2816,Burglary,204.1,2023
+https://www.waspc.org/assets/2025%20Crime%20in%20Washington-compressed.pdf,"Seattle, WA",8728,Burglary,1184.3,2024
+https://data-openjustice.doj.ca.gov/sites/default/files/2024-07/Crime%20In%20CA%202023f.pdf,"San Jose, CA",,Larceny-Theft,,2023
+https://www.indy.gov/activity/incident-reports-and-crime-statistics,"Indianapolis, IN",,Burglary,,2023
+https://police.fortworthtexas.gov/Crime-Public-Info/Crime-Data-Center,"Fort Worth, TX",,Burglary,,2023
+https://azcrimestatistics.azdps.gov/tops,"Phoenix, AZ",9364,Motor Vehicle Theft,585.25,2023
+https://www.ncsbi.gov/Services/Crime-Statistics/Crime-in-North-Carolina-Annual-Summaries/2024-Annual-Summary.aspx,"Charlotte, NC",4287,Burglary,,2024
+https://citrusheights.net/DocumentCenter/View/25766/2024-Annual-Report,"Citrus Heights, CA",,Motor Vehicle Theft,,2024
+https://www.citrusheights.net/DocumentCenter/View/29127/2025-Annual-Report,"Citrus Heights, CA",162,Burglary,186.7,2025
+https://www.cityofpleasantonca.gov/wp-content/uploads/2026/06/2026-Annual-Report-to-Council.pdf,"Pleasanton, CA",114,Motor Vehicle Theft,,2025
+https://www.sandiego.gov/sites/default/files/2022-actual-crimes.pdf,"San Diego, CA",3239,Burglary,,2022
+https://www.lakewoodco.gov/files/assets/public/v/2/police/pdfs/2025-lpd-annual-report-1.pdf,"Lakewood, CO",879,Motor Vehicle Theft,560.1,2025
+https://www.independencemo.gov/sites/default/files/2026-07/2024%20IPD%20Annual%20Report.pdf,"Independence, MO",,Burglary,,2024
+https://www.sandiego.gov/sites/default/files/2023-actual-crimes.pdf,"San Diego, CA",,Larceny-Theft,,2023
+https://cityoflakewood.us/wp-content/uploads/2024/02/2023-Annual-Report-Final.pdf,"Lakewood, WA",1174,Motor Vehicle Theft,1845.6,2023
+https://nashuapd.com/Archive.aspx?ADID=56,"Nashua, NH",,Burglary,,2025
+https://police.stpete.org/docs/ucrAnnualReport2024.pdf,"St. Petersburg, FL",5379,Larceny-Theft,2014.4,2024
+https://johnscreekga.b-cdn.net/app/uploads/2025/05/Police-Annual-Report-2024.pdf,"Johns Creek, GA",24,Motor Vehicle Theft,29.3,2024
+https://mayor.lacity.gov/news/lapd-releases-2024-end-year-crime-statistics-city-los-angeles,"Los Angeles, CA",14248,Burglary,373,2024
+https://nashuapd.com/Archive.aspx?ADID=55,"Nashua, NH",,Larceny-Theft,,2024
+https://media-manchester.inklink.news/app/wp-content/uploads/2025/03/05085059/2024AnnualReport1.pdf,"Manchester, NH",,Burglary,86,2024
+https://www.redlands.gov/wp-content/uploads/2025/08/rpd_2024_annual_report.pdf,"Redlands, CA",183,Burglary,,2024
+https://www.mobilepd.org/uploads/2020MPDANNUALREPORT.pdf,"Mobile, AL",1513,Burglary,561.6,2020
+https://savannahpd.org/wp-content/uploads/2022/02/2021-Crime-Stats.pdf,"Savannah, GA",461,Motor Vehicle Theft,313.6,2021
+https://www.stpetersmo.net/Archive.aspx?ADID=88,"St. Peters, MO",119,Burglary,226,2009
+https://savannahpd.org/wp-content/uploads/2021/02/2019-Yearly-Compstat-Report.pdf,"Savannah, GA",2942,Larceny-Theft,2029,2019
+https://www.redmond.gov/DocumentCenter/View/32563/2023-Annual-Report-for-Redmond-Police-Department---FINAL,"Redmond, WA",247,Burglary,318.75,2023
+https://www.memphispolice.org/wp-content/uploads/2025/07/2023.AR_Final.pdf,"Memphis, TN",,Burglary,1091.9,2023
+https://www.port-orange.org/DocumentCenter/View/17880/2024-Annual-Report,"Port Orange, FL",,Burglary,,2024
+https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/Annual%20Report%202023_READER_lowres.pdf,"Washington, DC",,Burglary,,2023
+https://police.brooklinema.gov/DocumentCenter/View/1695/2024-Year-End-Report?bidId=,"Brookline, MA",55,Burglary,87.3,2024
+https://virginiabeach.gov/connect/news/vbpd-releases-2024-crime-data,"Virginia Beach, VA",399,Burglary,86.7,2024
+https://police.brooklinema.gov/DocumentCenter/View/2166,"Brookline, MA",14,Motor Vehicle Theft,22.22,2025
+https://www.modestogov.com/Archive.aspx?ADID=4091,"Modesto, CA",1045,Larceny-Theft,478.3,2023
+https://police.slc.gov/crimestatistics/,"Salt Lake City, UT",,Larceny-Theft,,2021
+https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/Residents/Public%20Safety/Police/Public%20Reports%20and%20Crime%20Data/APD%20Crime%20Report%202024_APD_Handbook_8.5x11.pdf,"Aurora, CO",3567,Motor Vehicle Theft,907.6,2024
+https://chandlerazpd.gov/maps-and-statistics/,"Chandler, AZ",252,Burglary,86.47,2025
+https://www.mesaaz.gov/Public-Safety/Mesa-Police/Crime-Safety/Crime-Statistics,"Mesa, AZ",,Motor Vehicle Theft,,2025
+https://www.alamedaca.gov/files/assets/public/v/3/departments/alameda/police/apd-annual-report-2025-final.pdf,"Alameda, CA",2191,Larceny-Theft,2809,2025
+https://www.oaklandca.gov/Public-Safety-Streets/Police/OPD-Data/Oakland-Crime-Incident-Data-Reports,"Oakland, CA",8368,Larceny-Theft,1924,2024
+https://www.highpointnc.gov/1945/Annual-Reports,"High Point, NC",405,Burglary,347,2024
+https://www.fremontpolice.gov/about-us/transparency-portal/yearly-summaries,"Fremont, CA",,Burglary,,2023
+https://www.longbeach.gov/police/crime-info/crime-statistics/,"Long Beach, CA",,Burglary,,
+https://kcpolice.org/media/4783/2022-annual-report.pdf,"Kansas City, MO",2869,Burglary,,2022
+https://champaignil.gov/police/annual-report/,"Champaign, IL",,Burglary,,2024
+https://columbiapd.net/publications/,"Columbia, MO",,Burglary,,2024
+https://greeleyco.gov/police/about-us/news-releases/2026/greeley-reports-2025-crime-stats/,"Greeley, CO",,Motor Vehicle Theft,,2025
+https://www.cityofsacramento.gov/police/crime-and-safety/crime-statistics.html,"Sacramento, CA",7700,Larceny-Theft,,2025
+https://www.chicagopolice.org/statistics-data/statistical-reports/annual-reports/,"Chicago, IL",,Burglary,,2024
+https://www.cityoforange.org/residents/police,"Orange, CA",,Larceny-Theft,,2024
+https://www.cityofsanrafael.org/quality-of-life-safety-and-wellbeing-metrics/,"San Rafael, CA",,Larceny-Theft,,2025
+https://www.ncsbi.gov/Services/Crime-Statistics/Crime-in-North-Carolina-Annual-Summaries/2023-Annual-Summary.aspx,"Durham, NC",1885,Motor Vehicle Theft,616,2023
+https://srpd.org/downloads/Annual-Report-2025.pdf,"San Rafael, CA",108,Burglary,177.05,2025
+https://www.ncsbi.gov/SSRV?report=/UCR/IndexOffensesByAgencyInCounty,"Greensboro, NC",7168,Larceny-Theft,2357.9,2024
+https://www.chicagopolice.org/wp-content/uploads/2024-CPD-Annual-Report-Final-For-Publishing.pdf,"Chicago, IL",7507,Burglary,282.2,2024
+https://www.fdle.state.fl.us/getContentAsset/f371c6d4-5ac3-4e46-9f13-9b2a9f4cad99/73aabf56-e6e5-4330-95a3-5f2a270a1d2b/County_and_Municipal_Offense_Report_2020A.pdf?language=en,"Miami, FL",,Burglary,,2020
+https://kcpolice.org/about/transparency/annual-reports/,"Kansas City, MO",2757,Burglary,542.7,2023
+https://www.mobilepd.org/stats-reports/,"Mobile, AL",3123,Larceny-Theft,1670.1,2024
+https://greeleyco.gov/police/about-us/annual-reports-and-strategic-plan/,"Greeley, CO",564,Motor Vehicle Theft,512.7,2024
+https://chattanooga.gov/stay-informed/latest-news/chattanooga-police-department-releases-202-5-annual-report,"Chattanooga, TN",,Burglary,,2025
+https://savannahpd.org/crime-report/annual-crime-reports/,"Savannah, GA",,Burglary,,2024
+https://vsp.virginia.gov/wp-content/uploads/2026/03/Crime-In-Virginia-2024a.pdf,"Alexandria, VA",,Burglary,,2024
+https://weblink.cityofdubuque.org/WebLink/DocView.aspx?id=3042161&dbid=0&repo=City-of-DBQ,"Dubuque, IA",629,Larceny-Theft,1066.1,2025
+https://gbi.georgia.gov/document/document/2024-crime-statistics-summary/download,"Atlanta, GA",,Burglary,,2024
+https://us-east-1-indy.graphassets.com/ActDBC5rvRWeCZlNNnLrDz/cmixnbv7p0lpy07ld2xhz5v8e,"Indianapolis, IN",,Burglary,,2024
+https://assets.dps.mn.gov/files/bca/2024-Uniform-Crime-Report.pdf,"Minneapolis, MN",,Burglary,,2024
+https://www.houstontx.gov/police/cs/index-2.htm,"Houston, TX",11255,Burglary,489,2024
+https://www.phoenix.gov/administration/departments/police/crime-stats-data/crime-stats-maps.html,"Phoenix, AZ",,Burglary,,
+https://denvergov.org/files/content/public/v/44/government/agencies-departments-offices/agencies-departments-offices-directory/department-of-public-safety/2024-dos-annual-report.pdf,"Denver, CO",,Motor Vehicle Theft,,2024
+https://cincinnatioh.legistar.com/View.ashx?M=F&ID=13768707&GUID=577E02EF-1FFA-426D-BD92-27045A6AF465,"Cincinnati, OH",2809,Motor Vehicle Theft,902.9,2024
+https://www.sa.gov/Directory/Departments/SAPD/Transparency-Open-Data,"San Antonio, TX",12668,Motor Vehicle Theft,,2024
+https://www.lvmpd.com/about/transparency/statistics,"Las Vegas, NV",,Burglary,,2024
+https://www.columbus.gov/Services/Public-Safety/Police/About-the-Columbus-Division-of-Police/Police-Annual-Reports,"Columbus, OH",,Burglary,,2024
+https://www.dallaspolice.net/resource/crime-reports,"Dallas, TX",6020,Burglary,463.1,2024
+https://www.tampa.gov/police/info/crime-stats,"Tampa, FL",,Burglary,,2024
+https://slmpd.org/wp-content/uploads/2024/03/2014AnnualReport_D.pdf,"St. Louis, MO",4209,Burglary,1323.6,2013
+https://police.cityofomaha.org/opd-crime-statistics,"Omaha, NE",,Burglary,,
+https://www.rccd.nv.gov/about/uniform-crime-reporting/crime-in-nevada-annual-reports/,"Reno, NV",,Burglary,,2024
+https://www.tampa.gov/police/crimedata,"Tampa, FL",,Burglary,,2024
+https://police.boston.gov/2024/12/30/crime-statistics-january-1-2024-december-29-2024-vs-2023/,"Boston, MA",1092,Burglary,167.2,2024
+https://www.dps.texas.gov/sites/default/files/documents/crimereports/25/2025cit.pdf,"Austin, TX",,Burglary,,2024
+https://www.baltimorepolice.org/crime-stats,"Baltimore, MD",,Burglary,,2024
+https://www.lvmpd.com/about/transparency/annual-reports,"Las Vegas, NV",,Burglary,,2024
+https://www.clevelandheights.gov/1756/2024-Crime-Data,"Cleveland Heights, OH",,Motor Vehicle Theft,,2024
+https://city.milwaukee.gov/police/Information-Services/Crime-Maps-and-Statistics,"Milwaukee, WI",,Motor Vehicle Theft,,2024
+https://www.clevelandohio.gov/city-hall/departments/public-safety/divisions/police,"Cleveland, OH",,Burglary,,2024
+https://data.detroitmi.gov/datasets/detroitmi::rms-crime-incidents,"Detroit, MI",,Motor Vehicle Theft,1270,2024
+https://www.lmpd.gov/ArchiveCenter/ViewFile/Item/85,"Louisville, KY",,Burglary,,2021
+https://policeanalysis.tucsonaz.gov/pages/reported-crimes,"Tucson, AZ",6986,Larceny-Theft,1281.8,2024
+https://www.tulsapolice.org/annual-reports,"Tulsa, OK",,Burglary,,2023
+https://www.okc.gov/departments/police,"Oklahoma City, OK",,Motor Vehicle Theft,,2024
+https://www.cabq.gov/police/documents/2024_southwest_nibrs_apr.pdf/@@download/file/2024_Southwest_NIBRS_Apr.pdf,"Albuquerque, NM",,Motor Vehicle Theft,,2024
+https://www.memphispolice.org/reports-and-public-info/annual-reports/,"Memphis, TN",9863,Motor Vehicle Theft,1558,2024
+https://www.tucsonaz.gov/departments/police/reports-publications,"Tucson, AZ",2084,Burglary,382.4,2024
+https://www.nyc.gov/site/nypd/stats/crime-statistics/citywide-crime-statistics.page,"New York, NY",13029,Burglary,157.7,2024
+https://www.jaxsheriff.org/resources/crime-mapping-and-statistics,"Jacksonville, FL",,Burglary,,2024
+https://www.austintexas.gov/police/annual-crime-traffic-reports,"Austin, TX",4816,Burglary,499,2022
+https://www.cityofventura.ca.gov/2552/Crime-Statistics,"Ventura, CA",144,Motor Vehicle Theft,130.9,2025
+https://nopdnews.com/post/january-2025/nopd-2024-crime-statistics-show-significant-decrea/,"New Orleans, LA",,Burglary,,2024
+https://eppd.org/public-services/crime-information,"El Paso, TX",,Motor Vehicle Theft,,2024
+https://assets.montgomerycountymd.gov/files/2024_MCPD_Annual_Report_on_Crime_and_Safety.pdf,"Montgomery County, MD",2927,Motor Vehicle Theft,276.1,2024
+https://www.rochestermi.org/DocumentCenter/View/5122/Rochester-Police-2024-Annual-Report,"Rochester, MI",8,Burglary,,2024
+https://sac.delaware.gov/wp-content/uploads/sites/64/2026/01/CiD-20-24-Main-Report-final-010726.pdf,"Wilmington, DE",,Burglary,,2024
+https://www.nnva.gov/832/South-Precinct-Crime-Statistics,"Newport News, VA",310,Burglary,168.5,2024
+https://www.spokanetrends.org/graph.cfm?cat_id=7&sub_cat_id=1&ind_id=1,"Spokane, WA",2716,Burglary,1180.9,2024
+https://www.portland.gov/police/open-data/reported-crime-data,"Portland, OR",,Burglary,,2024
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics,"San Jose, CA",,Burglary,,2023
+https://www.sanfranciscopolice.org/stay-safe/crime-data/crime-dashboard,"San Francisco, CA",,Burglary,,2024
+https://www.fresno.gov/police/,"Fresno, CA",,Motor Vehicle Theft,,2024
+https://www.wilmingtonnc.gov/departments/police,"Wilmington, NC",452,Burglary,368,2024
+https://www.gilbertaz.gov/departments/police,"Gilbert, AZ",222,Burglary,77.6,2024
+https://santa-ana.gov/uniform-crime-reporting-statistics/,"Santa Ana, CA",689,Burglary,205.6,2025
+https://www.cityofhenderson.com/government/departments/police/police-records/crime-statistics,"Henderson, NV",1276,Motor Vehicle Theft,396.27,2024
+https://www.talgov.com/gis/tops/,"Tallahassee, FL",,Burglary,,2024
+https://nevadacrimestats.nv.gov/tops/,"North Las Vegas, NV",874,Burglary,312.1,2024
+https://azcrimestatistics.azdps.gov/tops/report/crime-overview/scottsdale-pd/2024,"Scottsdale, AZ",,Burglary,,2024
+https://www.ashevillenc.gov/department/police/,"Asheville, NC",315,Motor Vehicle Theft,335.1,2024
+https://va.beyond2020.com/va_tops/report/motor-vehicle-theft/norfolk/2024,"Norfolk, VA",,Motor Vehicle Theft,,2024
+https://www.cityofws.org/2080/Crime-Trends,"Winston-Salem, NC",1054,Burglary,416.6,2024
+https://www.cityofchesapeake.net/906/Crime-Reports-Mapping,"Chesapeake, VA",,Burglary,,2024
+https://www.fortcollins.gov/Services/Police-and-Public-Safety/Police-Services/Crime-Stats-and-Prevention,"Fort Collins, CO",3039,Larceny-Theft,1787.6,2024
+https://www.greensboro-nc.gov/departments/police,"Greensboro, NC",1497,Burglary,492.4,2024
+https://www.durhamnc.gov/719/Crime-Statistics,"Durham, NC",1358,Burglary,,2024
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#2019-mvt,"San Jose, CA",6126,Motor Vehicle Theft,587.3,2019
+https://www.sjpd.org/records/crime-stats-maps/crime-statistics-archive#2019-burglary,"San Jose, CA",4114,Burglary,394.4,2019
+https://www.sandiego.gov/sites/default/files/2024-actual-crimes.pdf#larceny,"San Diego, CA",,Larceny-Theft,,2024
+https://www.sandiego.gov/sites/default/files/2024-actual-crimes.pdf#mvt,"San Diego, CA",5409,Motor Vehicle Theft,389.14,2024
+https://www.sandiego.gov/sites/default/files/2024-actual-crimes.pdf,"San Diego, CA",,Burglary,,2024
+https://police-transparency-boise.hub.arcgis.com/pages/crime-stats,"Boise, ID",,Burglary,,2024
+https://www.sandiego.gov/sites/default/files/2022-actual-crimes.pdf#larceny,"San Diego, CA",15390,Larceny-Theft,1115,2022
+https://www.sandiego.gov/sites/default/files/2022-actual-crimes.pdf#mvt,"San Diego, CA",6325,Motor Vehicle Theft,458.3,2022
+https://azcrimestatistics.azdps.gov/tops/report/crime-overview/yuma-pd/2023,"Yuma, AZ",,Burglary,,2023
+https://police.stpete.org/docs/ucrAnnualReport2022.pdf,"St. Petersburg, FL",,Burglary,,2022
+https://www.flagstaff.az.gov/Archive.aspx?ADID=9318,"Flagstaff, AZ",,Burglary,,2023
+https://www.tucsonaz.gov/Departments/Police/TPD-Annual-Reports,"Tucson, AZ",,Motor Vehicle Theft,,2023
+https://www.modestogov.com/229/Crime-Map,"Modesto, CA",588,Burglary,270,2023
+https://police.cityofomaha.org/crime-information/annual-reports,"Omaha, NE",,Motor Vehicle Theft,,2024
+https://www.longbeach.gov/globalassets/police/media-library/documents/crime-info/statistics/2024/2024-12-monthly-ibr,"Long Beach, CA",473,Motor Vehicle Theft,103.73,2024
+https://www.kansas.gov/kbi/stats/stats_crime2024.shtml,"Wichita, KS",,Burglary,,2024
+https://www.wichita.gov/1048/Crime-Stats,"Wichita, KS",2436,Motor Vehicle Theft,613.6,2024
+https://rrnm.gov/4332/Online-Reporting,"Rio Rancho, NM",155,Motor Vehicle Theft,143.5,2024
+https://www.cityoffortwayne.in.gov/551/Auto-Theft-Unit,"Fort Wayne, IN",,Motor Vehicle Theft,,2024
+https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports,"San Francisco, CA",7252,Motor Vehicle Theft,896.4,2024
+https://southbendin.gov/transparency-and-performance/police-transparency-hub/particrimes/,"South Bend, IN",289,Burglary,280.6,2024
+https://www.madisonthecity.com/wp-content/uploads/2024-NIBRS-Media-Release-1.pdf,"Madison, AL",,Burglary,,2024
+https://www.kalamazoocity.org/Government/Departments/Public-Safety,"Kalamazoo, MI",444,Burglary,608.2,2024
+https://www.grandrapidsmi.gov/departments/police-department/police-maps/,"Grand Rapids, MI",,Motor Vehicle Theft,,2024
+https://www.cityofmadison.com/police/data-records,"Madison, WI",,Motor Vehicle Theft,,2024

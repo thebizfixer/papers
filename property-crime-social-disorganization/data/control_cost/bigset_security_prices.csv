@@ -1,0 +1,90 @@
+claimed_loss_reduction_pct,control_family,installed_cost_high_usd,installed_cost_low_usd,source_url,unit_description
+,Fence/Perimeter Hardening,71,32,https://www.ergeon.com/blog/post/chain-link-fence-costs,Chain-link perimeter fence per linear foot installed
+,Fence/Perimeter Hardening,139,85,https://www.homedepot.com/services/c/cost-install-fence/8fa995a0c,6-foot fence installation per linear foot
+,Fence/Perimeter Hardening,26,23,https://metrofence.net/what-is-the-average-cost-of-a-commercial-fence-installation/,Commercial chain-link fence installation per linear foot (materials + labor)
+30,Fence/Perimeter Hardening,38,24,https://twosonsfencing.com/tools/chain-link-cost-calculator,Commercial-grade chain-link fence per linear foot installed
+,Fence/Perimeter Hardening,34,15,https://www.thumbtack.com/p/chain-link-fence-installation-cost,Chain-link perimeter fence installed per linear foot
+,Video Surveillance,3500,1200,https://wcctechgroup.com/commercial-security-camera-cost-southern-california/,Commercial IP camera installed per camera (hardware + labor + 1st year licensing)
+,Lighting,250,100,https://drwattselectric.com/security-lighting-cost/,Security light fixture installed (per fixture)
+,Lighting,500,120,https://www.paclights.com/explore/average-price-to-install-an-outdoor-security-light-lighting-explained/,Outdoor security light installation per fixture (fixture + labor)
+,Video Surveillance,25000,5000,https://militiaprotection.com/commercial-security-camera-installation-cost,"Commercial security camera system installed (typical business, professionally installed)"
+,Video Surveillance,500,100,https://www.backstreet-surveillance.com/blog/post/how-much-security-camera-installation-cost-in-the-usa-a-complete-breakdown,"IP camera installed (per camera, equipment cost; small setup 4-8 cameras $100-$400/cam, high-end 8-16 cameras $200-$500/cam)"
+,Fence/Perimeter Hardening,1200,500,https://www.idealshield.com/how-much-does-it-cost-to-install-a-bollard-post/,Security bollard post installed
+,Fence/Perimeter Hardening,200,75,https://mfrcorp.com/how-much-does-a-commercial-security-fence-cost-and-what-affects-pricing/,Anti-climb security fence per linear foot
+,Electronic Access Control,3000,1000,https://entegritysmart.com/access-control-pricing/,Key card and key fob access control per door installed
+,Electronic Access Control,8000,500,https://www.ackermansecurity.com/blog/business-security/average-cost-access-control,Business access control system per door installed
+,Electronic Access Control,10000,2500,https://accessprofessionals.com/access-control-systems-how-much-do-they-cost-and-why-do-i-need-them/,Biometric access control per door installed
+,Fence/Perimeter Hardening,500,50,https://tampasteel.com/bollard-installation-cost/,Fixed security bollard installed
+,Electronic Access Control,3500,1100,https://www.getkisi.com/blog/breakdown-of-access-control-system-installation-costs,Card-reader single-door access control system installed (reader + hardware + installation)
+,Fence/Perimeter Hardening,44.84,29.08,https://www.homewyse.com/services/cost_to_install_chain_link_fence.html,"Chain-link perimeter fence per linear foot (6 ft tall, 12.5 ga galvanized fabric, 16 ga steel posts, 17 ga steel rails, installed)"
+,Intrusion Alarm,1500,500,https://americanalarm.net/security-system-cost-business/,Commercial intrusion alarm system equipment and installation (small business basic system)
+13,Video Surveillance,,,https://www.ojp.gov/library/publications/cctv-surveillance-crime-prevention-40-year-systematic-review-meta-analysis,"CCTV surveillance system (meta-analysis of 76 evaluations, 1978-2017)"
+,Video Surveillance,2200,400,https://www.backstreet-surveillance.com/blog/post/surveillance-camera-installation-cost-factors-breakdown-and-budgeting-guide,PTZ security camera installed (equipment + labor)
+,Lighting,500,200,https://fsg.com/resources/parking-lot-lighting-calculator/,LED parking lot lighting retrofit per fixture installed (fixture-only retrofit)
+,Fence/Perimeter Hardening,6,3,https://homeguide.com/costs/barbed-wire-fence-cost,Barbed wire fence per linear foot installed
+,Electronic Access Control,3000,1500,https://hiltonsls.com/how-much-does-an-office-access-control-system-cost/,"Office access control system per door installed (includes hardware, software, installation, and initial setup)"
+,Video Surveillance,500,25,https://www.homeadvisor.com/cost/safety-and-security/install-a-surveillance-camera/,Security camera installed per camera (all types)
+,Fence/Perimeter Hardening,40,10,https://barrierbossusa.com/blogs/news/chain-link-fence-cost-calculator,Chain link fence professional installation per linear foot
+,Intrusion Alarm,8000,2000,https://innovanw.com/commercial-alarm-systems-costs-installation-what-businesses-need-to-know/,Commercial alarm system installed (small business)
+50,Intrusion Alarm,349,299,https://www.adt.com/business,ADT Interactive business security system installation with 36-month professional monitoring contract
+,Video Surveillance,900,400,https://www.securitycameraking.com/securitynews/4k-security-camera-systems-2026-installation-costs/,"16 channel NVR system (medium commercial); 32+ channel NVR: $800-2,500"
+,Video Surveillance,250,80,https://techprosecurity.com/security-articles/security-camera-system-installation/how-much-does-a-business-security-camera-system-really-cost/,Professional commercial security camera installation per camera
+,Video Surveillance,10000,4000,https://edgebusinesssecuritycameras.com/business-security-camera-cost-2026/,"Small business complete security camera system (commercial-grade cameras, NVR, storage, and installation)"
+,Lighting,,550,https://happyhomeslighting.com/commercial-lighting-installation-cost-calculator/,"Exterior security / parking lot light per fixture (installed, base cost before complexity/access multipliers)"
+,Fence/Perimeter Hardening,100,5,https://www.nwiron.com/how-much-does-a-commercial-security-fence-cost/,Commercial security fence per linear foot
+,Fence/Perimeter Hardening,25,12,https://coolcatfence.com/chain-link-fence-cost-per-foot/,"Chain-link perimeter fence per linear foot (4-6 ft standard height, installed)"
+,Fence/Perimeter Hardening,25,8,https://cast-lighting.com/blog/post/how-much-does-security-fencing-cost-what-you-need-to-know,Welded mesh security fence per square foot
+,Fence/Perimeter Hardening,25,16,https://visualfencepro.com/resources/chain-link-fence-pricing-guide.html,Chain-link perimeter fence 6ft residential 11.5 ga galvanized per linear foot installed
+,Fence/Perimeter Hardening,100,60,https://scheidererfence.com/blog/average-fence-installation-cost-per-foot/,Wrought iron security fence (6-foot) per linear foot installed
+,Fence/Perimeter Hardening,6,3,https://www.homeadvisor.com/cost/fencing/install-a-barbed-wire-fence/,Barbed wire fence per linear foot installed
+,Fence/Perimeter Hardening,85,20,https://allsecurityequipment.com/blogs/blog/how-much-fencing-costs,"General residential fencing per linear foot (wood, vinyl, aluminum, metal)"
+,Fence/Perimeter Hardening,40,10,https://homeguide.com/costs/chain-link-fence-cost,"Chain-link perimeter fence installed per linear foot (galvanized steel, 4–8 ft height)"
+21,Lighting,,,https://www.college.police.uk/research/crime-reduction-toolkit/street-lighting,Improved street lighting in public spaces
+60,Fence/Perimeter Hardening,,,https://dcj.colorado.gov/dcj-offices/ors/doc-res/brf-cpted1,"CPTED strategies (fencing, lighting, territorial reinforcement, access control) - broad crime prevention through environmental design"
+,Intrusion Alarm,3000,1500,https://getsafeandsound.com/blog/business-alarm-systems-pricing/,Business alarm system with equipment and installation (average small-to-mid business setup)
+,Fence/Perimeter Hardening,80,30,https://homeguide.com/costs/metal-fence-cost,Steel palisade fence per linear foot installed (security-grade)
+,Fence/Perimeter Hardening,12,6,https://www.gato-security.com/how-much-does-it-cost-to-put-up-electric-fencing/,"Industrial perimeter electric fence (high-voltage, monitored) per linear foot"
+,Fence/Perimeter Hardening,35,10,https://www.allprofenceaz.com/chain-link-fences-costs/,"Chain-link fence professionally installed (galvanized or vinyl-coated, 4–8 ft height) per linear foot"
+,Fence/Perimeter Hardening,20,8,https://www.homeadvisor.com/cost/fencing/install-a-chain-link-fence/,"Chain-link perimeter fence per linear foot (4-ft height, 9-gauge galvanized mesh, installed)"
+,Fence/Perimeter Hardening,18,10,https://titanfence.com/fences/fence-installation-cost,"Chain-link fence installed per linear foot (galvanized steel, standard 4-foot height)"
+,Fence/Perimeter Hardening,12000,3000,https://titanfence.com/fences/automatic-gate-installation-cost,Automatic gate operator with installation
+,Fence/Perimeter Hardening,,60,https://scheidererfence.com/blog/best-commercial-fence-types-for-business-security/,Anti-climb and high-security steel panel fence per linear foot installed
+,Lighting,8000,2500,https://www.ledlightexpert.com/parking-lot-light-poles-guide,LED parking lot light pole with fixture installed
+,Fence/Perimeter Hardening,85,65,https://homeguide.com/costs/wrought-iron-fence-cost,Ornamental wrought iron perimeter fence per linear foot installed
+,Fence/Perimeter Hardening,65,25,https://inlinesecurityfence.com/blog/how-much-does-commercial-fencing-cost-in-seattle-2025-guide/,"Commercial fencing installed per linear foot (Seattle, all materials average)"
+36,Lighting,,,https://crimelab.uchicago.edu/projects/nyc-street-lighting-reducing-crime-through-environmental-design/,"Street lighting upgrade in public housing development (RCT study, NYC)"
+,Fence/Perimeter Hardening,2771,1489,https://www.fixr.com/articles/chain-link-fence-cost-guide,chain-link fence installed per 100 linear feet
+,Fence/Perimeter Hardening,40,12.25,https://www.fixr.com/costs/fence-installation,Chain-link fence per linear foot installed
+,Fence/Perimeter Hardening,100,50,https://superiorfenceok.com/commercial-fence-cost-per-linear-foot-in-okc/,High-security fence per linear foot installed
+,Video Surveillance,1375.2,1031.4,https://www.cctvcameraworld.com/security-camera-systems/business-commercial-security-camera-systems.html,8-camera business CCTV system
+,Video Surveillance,400,100,https://geeksonsite.com/blog/security-camera/security-camera-installation-cost/,Single security camera installation
+,Video Surveillance,1951,588,https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/az/phoenix,"Security camera installation project (Phoenix, AZ)"
+15,Video Surveillance,,,https://www.guardianintegratedsecurity.com/security-camera-effectiveness-statistics/,Actively monitored CCTV system
+,Intrusion Alarm,120,40,https://www.vivint.com/resources/article/small-business-security-systems,business alarm monitoring monthly contract
+,Electronic Access Control,3000,1000,https://butterflymx.com/blog/key-card-security-systems-for-business/,key card entry system per door installed
+,Intrusion Alarm,3000,1000,https://forbel.com/blog/how-much-does-a-business-security-system-cost,Business security/intrusion system hardware installed
+,Intrusion Alarm,3000,1000,https://www.truehomeprotection.com/how-much-does-a-commercial-security-system-cost/,commercial burglar alarm system installed
+,Video Surveillance,2000,800,https://www.business.com/articles/how-much-should-you-spend-on-small-business-security-systems/,4-camera video surveillance system installed (equipment + installation)
+,Electronic Access Control,3500,1500,https://monarchconnected.com/blog/commercial-door-entry-systems,Cloud access control per door (installed)
+,Lighting,500,350,https://www.bluettipower.com/blogs/articles/electrician-cost-to-install-outdoor-light-lets-find-out,Outdoor security light installation project
+,Video Surveillance,800,50,https://www.security.org/security-cameras/best/business/,business security camera (single)
+,Electronic Access Control,15000,150,https://networksnsecurity.com/how-much-does-it-cost-to-install-an-intercom-system/,"Intercom system installation (complete system, including video and smart/automation)"
+,Fence/Perimeter Hardening,5000,2500,https://www.homeadvisor.com/cost/safety-and-security/install-a-security-gate/,Professional automatic driveway gate installation project
+,Video Surveillance,575,287,https://militiaprotection.com/camera-system-installation-cost,Security camera installation per camera
+,Intrusion Alarm,2000,750,https://www.fixr.com/costs/home-security-system,Home security system installed (equipment + installation + monitoring)
+300,Video Surveillance,450,125,https://homeguide.com/costs/security-camera-installation-cost,security camera installation per camera
+,Fence/Perimeter Hardening,7000,1500,https://unitedfencecompany.com/discover-the-ideal-automated-security-gates-for-your-property/,Automated security gate installed (gate automation)
+,Fence/Perimeter Hardening,8600,1150,https://allsecurityequipment.com/blogs/blog/cost-to-install-automatic-gate-opener,automatic gate opener install
+,Fence/Perimeter Hardening,231.44,116,https://www.ironfenceshop.com/blog/how-much-do-metal-fences-cost/,"Aluminum ornamental metal fence panel (3x6 ft to 6x6 ft, material only)"
+,Fence/Perimeter Hardening,6500,2500,https://r3accessinc.com/automatic-rolling-gate-opener/how-much-does-an-automatic-rolling-gate-opener-cost-in-2026/,Automatic rolling gate opener
+30,Lighting,,,https://amfelectric.com/blog/2022/08/improve-safety-security-through-led-parking-lot-lighting/,LED parking lot light fixture installed
+,Video Surveillance,1799,199,https://getsafeandsound.com/blog/verkada-cameras-price/,Verkada camera annual license
+,Lighting,650,100,https://homeguide.com/costs/lighting-fixture-installation-cost,Add a light fixture (materials + labor installed)
+,Fence/Perimeter Hardening,100,30,https://agvinylfencing.com/commercial-aluminum-fence-cost-guide/,Commercial aluminum fence per linear foot
+,Fence/Perimeter Hardening,60,20,https://homeguide.com/costs/fence-installation-cost,New wood or vinyl fence installed per linear foot
+,Video Surveillance,630,211,https://www.thumbtack.com/p/security-camera-installation-cost,Security camera installation project (national average fixed price)
+,Lighting,6000,2000,https://www.angi.com/articles/outdoor-lighting-installation-cost.htm,Outdoor lighting installation project (full system)
+,Video Surveillance,5299,699,https://www.verkada.com/pricing/,Verkada cloud camera (CM22 mini series to CP63-E PTZ series)
+,Intrusion Alarm,1236,300,https://www.homeadvisor.com/cost/safety-and-security/install-an-alarm-system/,alarm system installation
+,Intrusion Alarm,60,30,https://www.vivint.com/resources/article/how-much-does-alarm-monitoring-cost,Professional alarm monitoring monthly service
+22,Video Surveillance,1500,700,https://getsafeandsound.com/blog/cctv-camera-installation-cost/,Commercial CCTV camera installed (per camera)
